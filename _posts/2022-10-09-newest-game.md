@@ -3,10 +3,10 @@ layout: post
 title:  "Newest Game"
 summary: "Lead Programmer and Designer"
 date:   2022-10-09 15:39:40
-preview: /assets/postpreview.png
+preview: /assets/FlowstonePreview.png
 ---
 
-![Picture 1](/assets/flowstone Saga.png)
+![Picture 1](/assets/FlowstoneSaga.png)
 
 Here's some impressive stuff I did:
 

@@ -6,6 +6,6 @@ date:   2022-10-07 15:39:40
 preview: /assets/RecursionErrorPreview.png
 ---
 
-![Picture 1](/assets/fullsize.png)
+![Picture 1](/assets/RecursionErrorGifs/AnimatedHealthbars.gif)
 
 Put down info here, either in bullets or paragraphs.

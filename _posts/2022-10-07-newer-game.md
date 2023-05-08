@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Newer Game"
-summary: "Senior Technical Designer"
+title:  "Recursion Error"
+summary: "Technical Game Designer"
 date:   2022-10-07 15:39:40
-preview: /assets/postpreview.png
+preview: /assets/RecursionErrorPreview.png
 ---
 
 ![Picture 1](/assets/fullsize.png)

@@ -9,11 +9,17 @@ preview: /assets/RecursionErrorPreview.png
 One of my main tasks on this project has been to create a satisfying combat system. My goal was to have three different weapons that each feel powerful but different from each other. But before implementing the other weapons I first had to make hitting enemies feel good. 
 
 [Game Feel]
+
 ![Picture 1](/assets/RecursionErrorGifs/OldGameplay.gif)
+
 This is what the gameplay looked like back in December 2022. It was functional but there was no visual feedback when you hit an enemy. 
+
 ![Picture 2](/assets/RecursionErrorGifs/Hitstop&Shake.gif)
+
 Several changes were made at this point. Now some attacks move you forwards when they are used. This is going to be more prominent in the Axe than other weapons since it is meant to do more area of effect damage. I added "hitstop" on certain attacks which means that both the player and enemy's animations are pause for a few frames to sell the weight of the hit. During this time the enemy is also shaken around a little. This will only be used on heavier attacks that are supposed to be really powerful. I also added a visual for enemy's health and damage numbers that pop up when enemies are hit.   
+
 ![Picture 3](/assets/RecursionErrorGifs/AnimatedHealthbars.gif)
+
 Now an enemy's healthbar animates instead of simply being set to a new value when they take damage. 
 
 

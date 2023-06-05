@@ -29,7 +29,7 @@ The Axe is a strong and reliable weapon with decent distance and attacks that de
 
 I learned from playtesting that not a lot of people realized the Axe's follow-up attack existed until we told them about it. There were some people who enjoyed trying to get the perfectly timed version of the follow-up, but others did not use the follow-up attack even after they were told about it. 
 
-To account for this, I did two things. First, I added a training room that is accessible from the main hub at anytime.
+To account for this, I did two things. First, I added a training room that is accessible from the main hub at anytime. In this room, you can try out each weapon in a safe environment and there is UI that highlights each weapon's unique features.
 
 <p align="center">
   <img src="/assets/RecursionErrorGifs/TrainingRoom.gif">

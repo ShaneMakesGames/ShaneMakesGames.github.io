@@ -31,7 +31,7 @@ I learned from playtesting that not a lot of people realized the Axe's follow-up
 
 To account for this, I did two things. First, I added a training room that is accessible from the main hub at anytime.
 
-(Show Gif)
+![Picture 4](/assets/RecursionErrorGifs/FinalAxeGameplayV2.gif)
 
 I also changed the input for the follow-up attack. Now, holding the light attack will have you first perform a light attack and then the follow-up attack. However, if you release the button when you see the flash you will get the faster, perfect version of the attack. It is also possible to hold light attack shortly after dashing to skip the light attack, and just do the follow-up attack.
 

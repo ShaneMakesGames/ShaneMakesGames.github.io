@@ -6,6 +6,4 @@ permalink: /about/
 
 ![Picture 1](/assets/NewShaneProfileCropped.png)
 
-Hello! I'm Game Developer, an award-winning game developer who can both program and design games. As you can see from my impressive portfolio, I've worked on lots of different games!
-
-If you're interested in what I can offer your company, please contact me!
+Hi! I am a senior at Drexel University, majoring in Game Design and Production. I am passionate about Gameplay Programming and Design. Looking forward to making games focused on solid core mechanics. Also, I love dogs!

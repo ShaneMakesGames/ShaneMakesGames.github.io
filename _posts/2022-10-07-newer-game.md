@@ -8,7 +8,7 @@ preview: /assets/RecursionErrorPreview.png
 
 One of my main tasks on this project has been to create a satisfying combat system. My goal was to have three different weapons that each feel powerful but different from each other. But before implementing the other weapons I first had to make hitting enemies feel good. 
 
-[Game Feel]
+**[Game Feel]**
 
 ![Picture 1](/assets/RecursionErrorGifs/OldGameplay.gif)
 
@@ -23,7 +23,7 @@ Several changes were made at this point. Now some attacks move the player forwar
 Now an enemy's healthbar animates instead of simply being set to a new value when they take damage. 
 
 
-[The Axe]
+**[The Axe]**
 
 The Axe is a strong and reliable weapon with decent distance and attacks that deal damage over a wide area. It's unique trait is that by holding and then releasing the light attack button you can perform a follow-up attack. 
 
@@ -41,7 +41,7 @@ I also changed the input for the follow-up attack. Now, holding the light attack
   <img src="/assets/RecursionErrorGifs/FinalAxeGameplayV2.gif">
 </p>
 
-[Daggers]
+**[Daggers]**
 
 The Daggers are the fastest weapon in the game, allowing you to weave in and out of enemies' reach while slicing them to pieces. The daggers are the only weapon that has a string of light attacks. By pressing the light attack again within a lenient amount of time, you can perform up to two follow-up attacks.  
 
@@ -49,7 +49,7 @@ The Daggers are the fastest weapon in the game, allowing you to weave in and out
   <img src="/assets/RecursionErrorGifs/FinalDaggersGameplayV2.gif">
 </p>
 
-[Gauntlets]
+**[Gauntlets]**
 
 The Gauntlets are a powerful weapon allowing you to shoot energy from your fists. It is a hybrid melee/ranged weapon for players who want to fight from afar. Holding light attack allows you to aim your attack in any direction and the heavy attack can be used to push enemies back. This weapon is the one that went through the most iteration.
 

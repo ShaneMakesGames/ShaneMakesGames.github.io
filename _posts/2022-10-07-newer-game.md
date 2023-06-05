@@ -43,6 +43,7 @@ I also changed the input for the follow-up attack. Now, holding the light attack
 
 [Daggers]
 
+The Daggers are the fastest weapon in the game, allowing you to weave in and out of enemies' reach while slicing them to pieces. The daggers are the only weapon that has a string of light attacks. By pressing the light attack again within a lenient amount of time, you can perform up to two follow-up attacks.  
 
 <p align="center">
   <img src="/assets/RecursionErrorGifs/FinalDaggersGameplayV2.gif">
@@ -50,9 +51,9 @@ I also changed the input for the follow-up attack. Now, holding the light attack
 
 [Gauntlets]
 
-The Gauntlets are a powerful weapon allowing you to shoot energy from your fists. It serves as the game's ranged weapon option for players who want to fight from afar. Holding light attack allows you to aim your attack in any direction and the heavy attack can be used to push enemies back. This weapon is the one that went through the most iteration.
+The Gauntlets are a powerful weapon allowing you to shoot energy from your fists. It is a hybrid melee/ranged weapon for players who want to fight from afar. Holding light attack allows you to aim your attack in any direction and the heavy attack can be used to push enemies back. This weapon is the one that went through the most iteration.
 
-When I first implemented it, the light attack shot a moderately slow projectile and the heavy attack shot a beam that could damage multiple enemies in a line but was very slow to perform. This worked fine, but it did not feel very satisfying to use. I tried making the light attack's projectile move faster and have the heavy attack shoot a slow moving projectile with a wide hitbox. It still didn't feel quite right. Then I decided to rework aspects from the first iteration. Now the light attack was a hitbox, not a projectile, but it had decent range and the range could be extended by holding the button and aiming your attack. The heavy attack became a short ranged uppercut that pushes enemies back allowing you to get to safety. This version was way more fun however, it ended up being far too strong. Players could lay waste to swarms of enemies without ever getting close enough to take damage themselves.   
+When I first implemented it, the light attack shot a moderately slow projectile and the heavy attack shot a beam that could damage multiple enemies in a line but was very slow to perform. This worked fine, but it did not feel very satisfying to use. I tried making the light attack's projectile move faster and have the heavy attack shoot a slow moving projectile with a wide hitbox. This felt a little bit better, but because both of these attacks were pretty strong our playtesters would simply run away from enemies and whittle them down from afar. This made things far too easy and went against our goal of creating fast-paced combat. So to rememdy this, I changed the heavy attack to an uppercut that pushes enemies away. I then decreased the base damage of the ranged attack but made it so landing a heavy attack empowers your ranged attack for a small amount of time. This ended up encouraging players to stay just out of the enemies' range so they could land an uppercut and then dash away to deal damage with the ranged attack.
 
 <p align="center">
   <img src="/assets/RecursionErrorGifs/FinalGauntletsGameplayV2.gif">

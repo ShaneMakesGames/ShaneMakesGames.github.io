@@ -1,8 +1,6 @@
 # Site settings
-title: Game Programmer
+title: Technical Game Designer
 email: tuplershane5@gmail.com
-description: > # keep this and put description below
-  Programmer and Designer
 url: "https://ShaneMakesGames.github.io" # the base hostname & protocol for your site
 linkedin_url: "https://www.linkedin.com/in/shane-tupler/"
 github_username: ShaneMakesGames

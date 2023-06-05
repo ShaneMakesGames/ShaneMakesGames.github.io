@@ -31,19 +31,27 @@ I learned from playtesting that not a lot of people realized the Axe's follow-up
 
 To account for this, I did two things. First, I added a training room that is accessible from the main hub at anytime.
 
+// Training Room Gif
+
+I also changed the input for the follow-up attack. Now, holding the light attack will have you first perform a light attack and then the follow-up attack. However, if you release the button when you see the flash you will get the faster, perfect version of the attack. It is also possible to hold light attack shortly after dashing to skip the light attack, and just do the follow-up attack.
+
 <p align="center">
   <img src="/assets/RecursionErrorGifs/FinalAxeGameplayV2.gif">
 </p>
 
-I also changed the input for the follow-up attack. Now, holding the light attack will have you first perform a light attack and then the follow-up attack. However, if you release the button when you see the flash you will get the faster, perfect version of the attack. It is also possible to hold light attack shortly after dashing to skip the light attack, and just do the follow-up attack.
-
-(Show Gif)
-
 [Daggers]
 
+
+<p align="center">
+  <img src="/assets/RecursionErrorGifs/FinalDaggersGameplayV2.gif">
+</p>
 
 [Gauntlets]
 
 The Gauntlets are a powerful weapon allowing you to shoot energy from your fists. It serves as the game's ranged weapon option for players who want to fight from afar. Holding light attack allows you to aim your attack in any direction and the heavy attack can be used to push enemies back. This weapon is the one that went through the most iteration.
 
 When I first implemented it, the light attack shot a moderately slow projectile and the heavy attack shot a beam that could damage multiple enemies in a line but was very slow to perform. This worked fine, but it did not feel very satisfying to use. I tried making the light attack's projectile move faster and have the heavy attack shoot a slow moving projectile with a wide hitbox. It still didn't feel quite right. Then I decided to rework aspects from the first iteration. Now the light attack was a hitbox, not a projectile, but it had decent range and the range could be extended by holding the button and aiming your attack. The heavy attack became a short ranged uppercut that pushes enemies back allowing you to get to safety. This version was way more fun however, it ended up being far too strong. Players could lay waste to swarms of enemies without ever getting close enough to take damage themselves.   
+
+<p align="center">
+  <img src="/assets/RecursionErrorGifs/FinalGauntletsGameplayV2.gif">
+</p>

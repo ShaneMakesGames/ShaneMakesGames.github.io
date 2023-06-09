@@ -8,8 +8,7 @@ preview: /assets/RecursionErrorPreview.png
 
 
 Video Goes Here Updated : 
-<iframe src="https://drive.google.com/file/d/1238jQUSVZXf9TBhuJ_e1uNQS4HfJS5Sp/preview" width="900" height="500" allow="autoplay"></iframe>
-<iframe allowfullscreen="allowfullscreen" src="your_page_url/preview" ></iframe>
+<iframe src="https://drive.google.com/file/d/1238jQUSVZXf9TBhuJ_e1uNQS4HfJS5Sp/preview" width="900" height="500" allow="autoplay" allowfullscreen="allowfullscreen"></iframe>
 
 One of my main tasks on this project has been to create a satisfying combat system. My goal was to have three different weapons that each feel powerful but different from each other. But before implementing the other weapons I first had to make hitting enemies feel good. 
 

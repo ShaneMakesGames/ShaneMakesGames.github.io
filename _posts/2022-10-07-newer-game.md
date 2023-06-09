@@ -6,6 +6,8 @@ date:   2022-10-07 15:39:40
 preview: /assets/RecursionErrorPreview.png
 ---
 
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/OASWarE0Y6E" title="Recursion Error Trailer | Cyber Duck Collective" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 One of my main tasks on this project has been to create a satisfying combat system. My goal was to have three different weapons that each feel powerful but different from each other. But before implementing the other weapons I first had to make hitting enemies feel good. 
 
 **[Game Feel]**

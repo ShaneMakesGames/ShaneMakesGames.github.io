@@ -60,3 +60,6 @@ When I first implemented it, the light attack shot a moderately slow projectile 
 <p align="center">
   <img src="/assets/RecursionErrorGifs/FinalGauntletsGameplayV2.gif">
 </p>
+
+
+If you'd like to read more in-depth, here is my <a href="https://docs.google.com/document/d/1bT9IFHqPR0wT22lfVg5XTb69fw_1GM0wqV9EgFpAeLM/edit?usp=sharing"> Weapon Design Document</a>.

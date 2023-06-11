@@ -22,7 +22,7 @@ Several changes were made at this point. Now some attacks move the player forwar
 
 ![Picture 3](/assets/RecursionErrorGifs/AnimatedHealthbars.gif)
 
-Now an enemy's healthbar animates instead of simply being set to a new value when they take damage. 
+Now enemies' healthbars animates instead of simply being set to a new value when they take damage. 
 
 
 **[The Axe]**

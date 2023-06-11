@@ -45,7 +45,7 @@ I also changed the input for the follow-up attack. Now, holding the light attack
 
 **[Daggers]**
 
-The Daggers are the fastest weapon in the game, allowing you to weave in and out of enemies' reach while slicing them to pieces. The daggers are the only weapon that has a string of light attacks. By pressing the light attack again within a lenient amount of time, you can perform up to two follow-up attacks.  
+The Daggers are the fastest weapon in the game, allowing you to weave in and out of enemies' reach while slicing them to pieces. The daggers are the only weapon that has a string of light attacks. By pressing the light attack button again within a lenient amount of time, you can perform up to two follow-up attacks.  
 
 <p align="center">
   <img src="/assets/RecursionErrorGifs/FinalDaggersGameplayV2.gif">

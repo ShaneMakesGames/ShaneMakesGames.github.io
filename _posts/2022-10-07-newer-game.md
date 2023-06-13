@@ -11,7 +11,7 @@ September 2022- June 2023
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 <video width="750" height="350" controls autoplay>
-<source src="https://drive.google.com/uc?export=preview&id=1Um_zcEVWd0Wi7B1dsWGf7ixiXTdoFYMm" type="video/mp4">
+<source src="https://drive.google.com/file/d/1238jQUSVZXf9TBhuJ_e1uNQS4HfJS5Sp/preview" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 

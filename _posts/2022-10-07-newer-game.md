@@ -10,9 +10,9 @@ Team Size : 17 People
 September 2022- June 2023
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-
-<iframe src="https://drive.google.com/file/d/1238jQUSVZXf9TBhuJ_e1uNQS4HfJS5Sp/preview" width="750" height="350" allow="autoplay" allowfullscreen="allowfullscreen" onloadedmetadata="this.muted = true" playsinline autoplay muted loop></iframe>
-
+<video autoplay>
+<iframe src="https://drive.google.com/file/d/1238jQUSVZXf9TBhuJ_e1uNQS4HfJS5Sp/preview" width="750" height="350" allow="autoplay" allowfullscreen="allowfullscreen"></iframe>
+</video>
 My primary task on this project was to create a satisfying combat system. My goal was to have three different weapons that each feel powerful but different from each other. But before implementing all the weapons, I first had to make hitting enemies feel good.
 
 **[Game Feel]**

@@ -12,6 +12,6 @@ ________________________________________________________________________________
 
 <iframe src="https://drive.google.com/file/d/1238jQUSVZXf9TBhuJ_e1uNQS4HfJS5Sp/preview" width="750" height="350" allow="autoplay" allowfullscreen="allowfullscreen"></iframe>
 
-My primary focus on this project was on the playable weapons. I designed three weapons that encourage different playstyles while maintaining a similar power level. As a technical designer my responsibilities included creating design documents, coding the weapon mechanics, collaborating with art and animation teams, implementing attack animations, and tweaking attack data based on playtest data. 
+My primary focus on this project was on the playable weapons. I designed three weapons that encourage different playstyles while maintaining similar power levels. As a technical designer my responsibilities included creating design documents, coding the weapon mechanics, collaborating with art and animation teams, implementing attack animations, and tweaking attack data based on playtest data. 
 
 If you'd like to read more in-depth, here is my <a href="https://docs.google.com/document/d/1bT9IFHqPR0wT22lfVg5XTb69fw_1GM0wqV9EgFpAeLM/edit?usp=sharing"> Weapon Design Document</a>.

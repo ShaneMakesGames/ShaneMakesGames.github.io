@@ -11,7 +11,7 @@ Team Size : 17 People
 
 September 2022 - June 2023
 
-Recursion Error is a roguelike hack-and-slash set in an original science-fantasy world. You play as Leif, an immortal corporate agent. Utilizing cybernetic enhancements and magic infused weapons, you must fight through the city to reach the Rethi Corporation headquarters and recover the Destiny AI which could hold the key to more than you think.
+Recursion Error is a roguelike hack-and-slash set in an original science-fantasy world.
 ______________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 <video width="640" height="360" autoplay muted loop>

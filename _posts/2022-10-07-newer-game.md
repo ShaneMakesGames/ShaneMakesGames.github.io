@@ -22,14 +22,19 @@ My primary focus on this project was on the playable weapons. I designed three w
 </video>
 
 
-Talk about the Axe
+The Axe is a strong and reliable weapon with decent distance and attacks that deal damage over a wide area. It's unique trait is that by holding and then releasing the light attack button you can perform a follow-up attack. 
+
+I learned from playtesting that not a lot of people realized the Axe's follow-up attack existed until we told them about it. To account for this, I did two things. 
+
+First, I added a training room that is accessible from the main hub at anytime. In this room, you can try out each weapon in a safe environment and there is UI that highlights each weapon's unique features. I also changed the input for the follow-up attack. Now, holding the light attack will have you first perform a light attack and then the follow-up attack. However, if you release the button when you see the flash you will get the faster, perfect version of the attack.
+
 
 <video width="640" height="360" controls autoplay muted loop>
   <source src="/assets/RecursionErrorVideos/RecursionError_Daggers.mp4" type="video/mp4">
 </video>
 
 
-Talk about the Daggers
+The Daggers are the fastest weapon in the game, allowing you to weave in and out of enemies' reach while slicing them to pieces. The daggers are the only weapon that has a string of light attacks. By pressing the light attack button again within a lenient amount of time, you can perform up to two follow-up attacks.  
 
 <video width="640" height="360" controls autoplay muted loop>
   <source src="/assets/RecursionErrorVideos/RecursionError_Gauntlets.mp4" type="video/mp4">

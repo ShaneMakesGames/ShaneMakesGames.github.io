@@ -10,28 +10,28 @@ Team Size : 17 People
 September 2022 - June 2023
 ______________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-<video width="640" height="360" controls autoplay muted>
+<video width="640" height="360" controls autoplay muted loop>
   <source src="/assets/RecursionErrorVideos/RecursionError_Role.mp4" type="video/mp4">
 </video>
 
 
 My primary focus on this project was on the playable weapons. I designed three weapons that encourage different playstyles while maintaining similar power levels. As a technical game designer, my responsibilities included creating design documents, coding the weapon mechanics, collaborating with art and animation teams, implementing attack animations, and tweaking weapon parameters such as attack speeds and damage amounts based on playtest data. 
 
-<video width="640" height="360" controls autoplay muted>
+<video width="640" height="360" controls autoplay muted loop>
   <source src="/assets/RecursionErrorVideos/RecursionError_Axe.mp4" type="video/mp4">
 </video>
 
 
 Talk about the Axe
 
-<video width="640" height="360" controls autoplay muted>
+<video width="640" height="360" controls autoplay muted loop>
   <source src="/assets/RecursionErrorVideos/RecursionError_Daggers.mp4" type="video/mp4">
 </video>
 
 
 Talk about the Daggers
 
-<video width="640" height="360" controls autoplay muted>
+<video width="640" height="360" controls autoplay muted loop>
   <source src="/assets/RecursionErrorVideos/RecursionError_Gauntlets.mp4" type="video/mp4">
 </video>
 

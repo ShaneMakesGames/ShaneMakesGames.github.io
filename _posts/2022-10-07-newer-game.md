@@ -18,16 +18,15 @@ ________________________________________________________________________________
   <source src="/assets/RecursionErrorVideos/RecursionError_Role.mp4" type="video/mp4">
 </video>
 
-My primary focus on this project was on the playable weapons. I designed three weapons that encourage different playstyles while maintaining similar power levels. As a technical game designer, my responsibilities included creating design documents, coding the weapon mechanics, collaborating with art and animation teams, implementing attack animations, and tweaking weapon parameters such as attack speeds and damage amounts based on playtest data. 
+My primary focus on this project was on the playable weapons. I designed three weapons that encourage different playstyles while maintaining similar power levels. As a technical game designer, my responsibilities included creating design documents, coding the weapon mechanics, collaborating with art and animation teams, implementing attack animations, and tweaking weapon parameters such as attack speeds and damage amounts based on playtest data.   
 <br>
 
 <video width="640" height="360" autoplay muted loop>
   <source src="/assets/RecursionErrorVideos/RecursionError_Axe.mp4" type="video/mp4">
 </video>
 
-The Axe is a strong and reliable weapon with decent distance and attacks that deal damage over a wide area. It's unique trait is that by holding and then releasing the light attack button you can perform a follow-up attack.
+The Axe is a strong and reliable weapon with decent distance and attacks that deal damage over a wide area. It's unique trait is that by holding and then releasing the light attack button you can perform a follow-up attack.  
 <br>
-
 
 <video width="640" height="360" autoplay muted loop>
   <source src="/assets/RecursionErrorVideos/RecursionError_Daggers.mp4" type="video/mp4">

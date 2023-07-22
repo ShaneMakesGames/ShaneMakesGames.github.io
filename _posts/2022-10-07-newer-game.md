@@ -21,6 +21,8 @@ ________________________________________________________________________________
 My primary focus on this project was on the playable weapons. I designed three weapons that encourage different playstyles while maintaining similar power levels. As a technical game designer, my responsibilities included creating design documents, coding the weapon mechanics, collaborating with art and animation teams, implementing attack animations, and tweaking weapon parameters such as attack speeds and damage amounts based on playtest data.   
 <br>
 
+<img src="/assets/RecursionErrorGifs/VisualFeedback.gif">
+
 <video width="640" height="360" autoplay muted loop>
   <source src="/assets/RecursionErrorVideos/RecursionError_Axe.mp4" type="video/mp4">
 </video>

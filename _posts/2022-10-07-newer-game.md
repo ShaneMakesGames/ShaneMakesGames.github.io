@@ -14,7 +14,7 @@ September 2022 - June 2023
 Recursion Error is a roguelike hack-and-slash set in an original science-fantasy world.
 ______________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-<video width="640" height="360" autoplay muted loop>
+<video width="640" height="360" style="padding:1px;border:1px solid black;" autoplay muted loop>
   <source src="/assets/RecursionErrorVideos/RecursionError_Role.mp4" type="video/mp4">
 </video>
 

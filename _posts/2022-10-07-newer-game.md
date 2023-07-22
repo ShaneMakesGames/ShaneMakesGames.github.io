@@ -14,7 +14,7 @@ September 2022 - June 2023
 Recursion Error is a roguelike hack-and-slash set in an original science-fantasy world.
 ______________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-<video width="640" height="360" style="padding:1px;border:1px solid black;" autoplay muted loop>
+<video width="640" height="360" autoplay muted loop>
   <source src="/assets/RecursionErrorVideos/RecursionError_Role.mp4" type="video/mp4">
 </video>
 
@@ -26,7 +26,6 @@ My primary focus on this project was on the playable weapons. I designed three w
 </video>
 
 <br>
-<br>
 The Axe is a strong and reliable weapon with decent distance and attacks that deal damage over a wide area. It's unique trait is that by holding and then releasing the light attack button you can perform a follow-up attack. <br>
 
 <video width="640" height="360" autoplay muted loop>
@@ -34,14 +33,12 @@ The Axe is a strong and reliable weapon with decent distance and attacks that de
 </video>
 
 <br>
-<br>
 The Daggers are the fastest weapon in the game, allowing you to weave in and out of enemies' reach while slicing them to pieces. The daggers are the only weapon that has a string of light attacks. By pressing the light attack button again within a lenient amount of time, you can perform up to two follow-up attacks.  
 
 <video width="640" height="360" autoplay muted loop>
   <source src="/assets/RecursionErrorVideos/RecursionError_Gauntlets.mp4" type="video/mp4">
 </video>
 
-<br>
 <br>
 The Gauntlets are a powerful weapon allowing you to shoot energy from your fists. It is a hybrid melee/ranged weapon for players who want to fight from afar. Holding light attack allows you to aim your attack in any direction and the heavy attack can be used to push enemies back.
 

@@ -12,12 +12,9 @@ Team Size : 17 People
 September 2022 - June 2023
 
 Recursion Error is a roguelike hack-and-slash set in an original science-fantasy world.
+
+<iframe src="https://drive.google.com/file/d/1238jQUSVZXf9TBhuJ_e1uNQS4HfJS5Sp/preview" width="750" height="350" allow="autoplay" allowfullscreen="allowfullscreen" poster="/assets/RecursionErrorWallpaper"></iframe>
 ______________________________________________________________________________________________________________________________________________________________________________________________________________________________
-
-<video width="640" height="360" autoplay muted loop>
-  <source src="/assets/RecursionErrorVideos/RecursionError_Role.mp4" type="video/mp4">
-</video>
-
 My primary focus on this project was on the playable weapons. I designed three weapons that encourage different playstyles while maintaining similar power levels. As a technical game designer, my responsibilities included creating design documents, coding the weapon mechanics, collaborating with art and animation teams, implementing attack animations, and tweaking weapon parameters such as attack speeds and damage amounts based on playtest data.   
 
 From the beginning my goal was to have three playable weapons in order to keep a manageable scope while still allowing for different playstyles. I wanted to create a fast-paced combat system that is easy to pick up but rewards players who take more time learning it’s nuances. To keep things simple, there are three main actions you can take during combat besides basic movement : Light attack, Heavy attack, and Dash. Each weapon has a different light and heavy attack though your dash remains the same. It travels a moderate distance with a quick burst of speed and offering invulnerability for a brief moment at the start of the animation. This basic control scheme makes it easy to play for the first time and start defeating enemies, however it still allows for more depth in other ways. For example, multiple weapons have unique or modified attacks accessed by holding and releasing the light attack button with proper timing instead of just pressing it.

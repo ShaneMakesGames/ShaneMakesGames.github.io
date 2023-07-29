@@ -13,6 +13,9 @@ September 2022 - June 2023
 
 Recursion Error is a roguelike hack-and-slash set in an original science-fantasy world.
 ______________________________________________________________________________________________________________________________________________________________________________________________________________________________
+<p align="center">
+  Testing Center Alignment
+  
 <iframe width="720" height="405" src="https://www.youtube.com/embed/OASWarE0Y6E" title="Recursion Error Trailer | Cyber Duck Collective" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Responsibilities : 
@@ -65,3 +68,4 @@ If you'd like to read more in-depth, here is my <a href="https://docs.google.com
 Want to see my code samples from the project, they are here : <a href="https://github.com/ShaneMakesGames/Code-Samples/tree/main/Recursion%20Error"> Recursion Error Code Samples</a>.
 
 Or if you'd like to play the game yourself, here is the <a href="https://shanegamedev.itch.io/recursion-error"> Itch.io Page</a>.
+</p>

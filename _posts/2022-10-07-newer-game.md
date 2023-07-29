@@ -29,7 +29,7 @@ Throughout the course of development, the combat system went through a number of
   <source src="/assets/RecursionErrorVideos/RecursionError_Axe.mp4" type="video/mp4">
 </video>
 
-The Axe is a strong and reliable weapon with decent distance and attacks that deal damage over a wide area. It encourages a brawler kind of playstyle, facing groups of enemies head on and cutting them down multiple at a time with sweeping attacks. Since it is the starting weapon, I wanted it to make players feel powerful. To achieve this, I gave gave it’s attacks wide hitboxes and relatively high damage. It's unique trait is that by holding and then releasing the light attack button you can perform a follow-up attack. 
+The Axe is a strong and reliable weapon with decent distance and attacks that deal damage over a wide area. It encourages a brawler kind of playstyle, facing groups of enemies head on and cutting them down multiple at a time with sweeping attacks. Since it is the starting weapon, I wanted it to make players feel powerful. To achieve this, I gave it’s attacks wide hitboxes and relatively high damage. It's unique trait is that by holding and then releasing the light attack button you can perform a follow-up attack. 
 
 I learned from playtesting that not a lot of people realized the Axe's follow-up attack existed until we told them about it. To account for this, I did two things. 
 
@@ -51,7 +51,7 @@ At first the total duration of the dagger’s attacks was too long, making it di
 
 The Gauntlets are a powerful weapon allowing you to shoot energy from your fists. It is a hybrid melee/ranged weapon for players who want to fight from afar. Holding the light attack button allows you to aim your attack in any direction and the heavy attack can be used to push enemies back. This weapon is the one that went through the most iteration. 
 
-At first the ranged attacks were far too strong, leading to playtesters running away and defeating enemies without ever taking damage. This made things far too easy and went against our goal of creating fast-paced combat. So to rememdy this, I changed the heavy attack to an uppercut that pushes enemies away. I then decreased the base damage of the ranged attack but made it so landing a heavy attack empowers your ranged attack for a small amount of time. This ended up encouraging players to stay just out of their enemies' range so they could land an uppercut and then dash away to deal damage with the ranged attack.
+At first the ranged attacks were far too strong, leading to playtesters running away and defeating enemies without ever taking damage. This made things far too easy and went against our goal of creating fast-paced combat. So to remedy this, I changed the heavy attack to an uppercut that pushes enemies away. I then decreased the base damage of the ranged attack but made it so landing a heavy attack empowers your ranged attack for a small amount of time. This ended up encouraging players to stay just out of their enemies' range so they could land an uppercut and then dash away to deal damage with the ranged attack.
 
 
 If you'd like to read more in-depth, here is my <a href="https://docs.google.com/document/d/1bT9IFHqPR0wT22lfVg5XTb69fw_1GM0wqV9EgFpAeLM/edit?usp=sharing"> Weapon Design Document</a>.

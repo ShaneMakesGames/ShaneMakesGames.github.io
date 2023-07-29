@@ -37,7 +37,7 @@ Throughout the course of development, the combat system went through a number of
   <source src="/assets/RecursionErrorVideos/RecursionError_Axe.mp4" type="video/mp4">
 </video>
 <br>
-The Axe is a strong and reliable weapon with attacks that deal solid damage over a wide area. It encourages a brawler kind of playstyle, facing groups of enemies head on and cutting them down multiple at a time with sweeping attacks. Since it is the starting weapon, I wanted it to make players feel powerful. To achieve this, I gave it’s attacks wide hitboxes and relatively high damage. Its unique trait is that by holding and then releasing the light attack button you can perform a follow-up attack. 
+The Axe is a strong and reliable weapon with attacks that deal solid damage over a wide area. It encourages a brawler kind of playstyle, facing groups of enemies head on and cutting them down multiple at a time with sweeping attacks. Its unique trait is that by holding and then releasing the light attack button you can perform a follow-up attack. 
 
 I learned from playtesting that not a lot of people realized the Axe's follow-up attack existed until we told them about it. To account for this, I did two things. 
 

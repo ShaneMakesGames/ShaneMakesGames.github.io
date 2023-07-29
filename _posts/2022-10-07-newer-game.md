@@ -16,15 +16,13 @@ ________________________________________________________________________________
 <p align="center">  
 <iframe width="720" height="405" src="https://www.youtube.com/embed/OASWarE0Y6E" title="Recursion Error Trailer | Cyber Duck Collective" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Responsibilities : 
-
-  - Designed three weapons that encourage different playstyles
-  
+Responsibilities : <br>
+  - Designed three weapons that encourage different playstyles<br>
   - Wrote documentation on weapon designs<br>
-  - Programmed base weapon functionality and unique weapon mechanics
-  - Tweaking weapon parameters such as attack speeds and damage amounts based on playtest data
-  - Collaborating with art and animation teams on the look of the weapons
-  - Implementing attack animations and hitboxes
+  - Programmed base weapon functionality and unique weapon mechanics<br>
+  - Tweaking weapon parameters such as attack speeds and damage amounts based on playtest data<br>
+  - Collaborating with art and animation teams on the look of the weapons<br>
+  - Implementing attack animations and hitboxes<br>
 
 I strove to create a fast-paced combat system that is easy to pick up but rewards players who take more time learning its nuances. To keep things simple, there are three main actions you can take during combat besides basic movement: Light attack, Heavy attack, and Dash. Each weapon has a different light and heavy attack, though your dash remains the same. It travels a moderate distance with a quick burst of speed and provides brief invulnerability, allowing you to evade enemy attacks with it. This basic control scheme makes it easy to play for the first time and start defeating enemies, however it still allows for depth in other ways. For example, multiple weapons have unique or modified attacks accessed by holding and releasing the light attack button with proper timing instead of just pressing it.
 <br>
@@ -59,12 +57,12 @@ At first the total duration of the dagger’s attacks was too long, making it di
 <br>
 The Gauntlets are a powerful weapon allowing you to shoot energy from your fists. It is a hybrid melee/ranged weapon for players who want to fight from afar. Holding the light attack button allows you to aim your attack in any direction and the heavy attack can be used to push enemies back. This weapon is the one that went through the most iteration. 
 
-At first the ranged attacks were far too strong, leading to playtesters running away and defeating enemies without ever taking damage. This made things far too easy and went against our goal of creating fast-paced combat. So to remedy this, I changed the heavy attack to an uppercut that pushes enemies away. I then decreased the base damage of the ranged attack but made it so landing a heavy attack empowers your ranged attack for a small amount of time. This ended up encouraging players to stay just out of their enemies' range so they could land an uppercut and then dash away to deal damage with the ranged attack.
+At first the ranged attacks were far too strong, leading to playtesters running away and defeating enemies without ever taking damage. This made things far too easy and went against our goal of creating fast-paced combat. So to remedy this, I changed the heavy attack to an uppercut that pushes enemies away. I then decreased the base damage of the ranged attack but made it so landing a heavy attack empowers your ranged attack for a small amount of time. This ended up encouraging players to stay just out of their enemies' range so they could land an uppercut and then dash away to deal damage with the ranged attack.<br>
 
 
-If you'd like to read more in-depth, here is my <a href="https://docs.google.com/document/d/1bT9IFHqPR0wT22lfVg5XTb69fw_1GM0wqV9EgFpAeLM/edit?usp=sharing"> Weapon Design Document</a>.<br>
+If you'd like to read more in-depth, here is my <a href="https://docs.google.com/document/d/1bT9IFHqPR0wT22lfVg5XTb69fw_1GM0wqV9EgFpAeLM/edit?usp=sharing"> Weapon Design Document</a>.<br><br>
 
-Want to see my code samples from the project, they are here : <a href="https://github.com/ShaneMakesGames/Code-Samples/tree/main/Recursion%20Error"> Recursion Error Code Samples</a>.<br>
+Want to see my code samples from the project, they are here : <a href="https://github.com/ShaneMakesGames/Code-Samples/tree/main/Recursion%20Error"> Recursion Error Code Samples</a>.<br><br>
 
 Or if you'd like to play the game yourself, here is the <a href="https://shanegamedev.itch.io/recursion-error"> Itch.io Page</a>.
 </p>

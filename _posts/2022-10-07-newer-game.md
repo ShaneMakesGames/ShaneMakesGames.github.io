@@ -20,9 +20,9 @@ Responsibilities : <br>
   - Designed three weapons that encourage different playstyles<br>
   - Wrote documentation on weapon designs<br>
   - Programmed base weapon functionality and unique weapon mechanics<br>
-  - Tweaking weapon parameters such as attack speeds and damage amounts based on playtest data<br>
-  - Collaborating with art and animation teams on the look of the weapons<br>
-  - Implementing attack animations and hitboxes<br><br>
+  - Tweaked weapon parameters such as attack speeds and damage amounts based on playtest data<br>
+  - Collaborated with art and animation teams on the look of the weapons<br>
+  - Implemented attack animations and hitboxes<br><br>
 
 I strove to create a fast-paced combat system that is easy to pick up but rewards players who take more time learning its nuances. To keep things simple, there are three main actions you can take during combat besides basic movement: Light attack, Heavy attack, and Dash. Each weapon has a different light and heavy attack, though your dash remains the same. It travels a moderate distance with a quick burst of speed and provides brief invulnerability, allowing you to evade enemy attacks with it. This basic control scheme makes it easy to play for the first time and start defeating enemies, however it still allows for depth in other ways. For example, multiple weapons have unique or modified attacks accessed by holding and releasing the light attack button with proper timing instead of just pressing it.
 <br>

@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Recursion Error"
-summary: "Role : Technical Game Designer"
-date:   2022-10-07 15:39:40
+summary: "Technical Game Designer"
+date:   2023-06-04 15:39:40
 preview: /assets/RecursionErrorPreview.png
 ---
 Game Design & Production Senior Project

@@ -7,6 +7,10 @@ github_username: ShaneMakesGames
 twitter_username: MakesShane
 footer_text: "This site uses <a href='https://github.com/gamingportfolio/urban-theme-portfolio'>urban-theme (portfolio)</a>."
 
+collections:
+  projects:
+    output: true
+
 # Build settings
 markdown: kramdown
 permalink: pretty

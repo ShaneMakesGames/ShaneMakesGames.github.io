@@ -12,7 +12,7 @@ Team Size : 17 People
 September 2022 - June 2023
 
 Recursion Error is a roguelike hack-and-slash set in an original science-fantasy world.
-______________________________________________________________________________________________________________________________________________________________________________________________________________________________
+<p align="center">________________________________________________________________________________________________________________________________________________________</p>
 <p align="center">  
 <iframe width="720" height="405" src="https://www.youtube.com/embed/OASWarE0Y6E" title="Recursion Error Trailer | Cyber Duck Collective" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

@@ -20,7 +20,7 @@ Responsibilities : <br>
   - Designed and programmed 20 enemy types<br>
   - Designed and programmed 15 power-up abilities<br>
   - Designed and programmed 3 boss fights<br>
-  - Wrote documentation on weapon designs<br>
+  - Wrote documentation on weapon designs<br><br>
 
 
 Folders are Digital Janitor's equivalent of enemy types. One of my biggest responsibilities as the Lead Gameplay Programmer is designing and implementing different Folder type's behaviors. My goal is to create unique and interesting Folders while maintaining consistency in some of their behaviors so the player always knows how to respond to them.

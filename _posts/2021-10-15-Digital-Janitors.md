@@ -19,9 +19,9 @@ Responsibilities : <br>
   - Designed and programmed 3 boss fights<br>
   - Wrote documentation on designs<br><br>
 
-The gameplay core of Digital Janitors consists of sorting secure folders or malware into either the secure drive or recycling bin respectively. The player interacts with folders using their mouse cursor, making the game play closer to an aim trainer than a game with a traditional combat system. Folders in Digital Janitors are the game's equivalent of enemy types.
+The gameplay core of Digital Janitors consists of sorting secure folders or malware into either the secure drive or recycling bin respectively. The player interacts with folders using their mouse cursor, making the game play closer to an aim trainer than a game with a traditional combat system. Folders in Digital Janitors are the game's equivalent of enemy types.<br><br>
 
-Since the premise of the game is to simulate a computer desktop in the 90s, it lives or dies by its immersion. It does not to be perfectly realistic to the setting, but it needs to recreate the image or memory of that setting that a player has in their mind. If something happens that breaks the player out of this reality then we have failed.<br>
+Since the premise of the game is to simulate a computer desktop in the 90s, it lives or dies by its immersion. It does not to be perfectly realistic to the setting, but it needs to recreate the image or memory of that setting that a player has in their mind. If something happens that breaks the player out of this reality then we have failed.<br><br>
 In order to maintain this image, there are a few constants that all folders follow :<br>
   - Hover and Selection states (When hovering over a folder or selecting it, it's sprite changes)<br>
   - If a folder is "unlocked", it can be picked up and sorted in the secure drive or recycling bin<br>

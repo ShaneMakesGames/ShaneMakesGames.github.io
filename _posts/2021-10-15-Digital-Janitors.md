@@ -28,11 +28,17 @@ In order to maintain this image, there are a few constants that all folders foll
   - All folders are either a secure folder or malware<br>
   - All folders are worth exactly one unit of space (Can be seen on the bar at the bottom of the screen. When this fills up, it is a game over)<br><br>
 
-With these contrainsts I grouped folder types into four groups : Moving, Locked, Elusive, and Aggresive.
-
-
+With these contrainsts I grouped folder types into four groups : Evasive, Locked, Elusive, and Aggresive.
 <video width="640" height="360" autoplay muted loop>
   <source src="/assets/DigitalJanitorsVideos/RunawayFolder.mp4" type="video/mp4">
 </video>
-  
+<br>
+Evasive folders are the most straight-forward of the four. They are folders that move, making it harder to pick them up. These folder types are not immediately dangerous, but can quickly get out of hand if the screen gets filled with them. 
+<br>
+
+<video width="640" height="360" autoplay muted loop>
+  <source src="/assets/DigitalJanitorsVideos/EncryptedFolder.mp4" type="video/mp4">
+</video>
+<br>
+Locked folders on the other hand are far more disruptive. 
 </p>

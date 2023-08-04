@@ -5,7 +5,7 @@ role: "Combat Designer"
 context: "Game Design & Production Senior Project"
 team-size: "Team Size : 17 People"
 timeline: "September 2022 - June 2023"
-summary: "Recursion Error is a roguelike hack-and-slash set in an original science-fantasy world."
+summary: "A roguelike hack-and-slash set in an original science-fantasy world."
 date:   2023-06-04 15:39:40
 preview: /assets/RecursionErrorPreview.png
 ---

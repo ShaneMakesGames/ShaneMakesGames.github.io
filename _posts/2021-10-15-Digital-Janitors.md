@@ -30,7 +30,7 @@ Since the premise of the game is to simulate a computer desktop in the 90s, it l
   - All folders are either a secure folder or malware<br>
   - All folders are worth exactly one unit of space (Can be seen on the bar at the bottom of the screen. When this fills up, it is a game over)
 
-With these contrainsts I 
+With these contrainsts I grouped folder types into four groups : Moving, Locked, Elusive, and Aggresive.
 
 
 <video width="640" height="360" autoplay muted loop>

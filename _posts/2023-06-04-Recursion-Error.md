@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Recursion Error"
-summary: "Technical Game Designer"
+summary: "Combat Designer"
 date:   2023-06-04 15:39:40
 preview: /assets/RecursionErrorPreview.png
 ---

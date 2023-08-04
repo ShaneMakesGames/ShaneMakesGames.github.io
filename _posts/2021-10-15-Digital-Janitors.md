@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Digital Janitors"
-summary: "Gameplay Designer"
+summary: "Technical Game Designer"
 date:   2023-06-04 15:39:40
 preview: /assets/DigitalJanitorsPreview.png
 ---
@@ -17,11 +17,24 @@ preview: /assets/DigitalJanitorsPreview.png
 <iframe width="720" height="405" src="https://www.youtube.com/embed/ZgYnhckP1VA" title="Digital Janitors Launch Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Responsibilities : <br>
-  - Designed and programmed 20 enemy types<br>
+  - Designed and programmed 30 enemy types<br>
   - Designed and programmed 15 power-up abilities<br>
   - Designed and programmed 3 boss fights<br>
-  - Wrote documentation on weapon designs<br><br>
+  - Wrote documentation on designs<br><br>
 
-Folders are Digital Janitor's equivalent of enemy types. One of my biggest responsibilities as the Lead Gameplay Programmer is designing and implementing different Folder type's behaviors. My goal is to create unique and interesting Folders while maintaining consistency in some of their behaviors so the player always knows how to respond to them.
+The gameplay core of Digital Janitors consists of sorting secure folders or malware into either the secure drive or recycling bin respectively. The player interacts with folders using their mouse cursor, making the game play closer to an aim trainer than a game with a traditional combat system. Folders in Digital Janitors are the game's equivalent of enemy types.
 
+Since the premise of the game is to simulate a computer desktop in the 90s, it lives or dies by its immersion. It does not to be perfectly realistic to the setting, but it needs to recreate the image or memory of that setting that a player has in their mind. If something happens that breaks the player out of this reality then we have failed. In order to maintain this image, there are a few constants that all folders follow :<br>
+  - Hover and Selection states (When hovering over a folder or selecting it, it's sprite changes to reflect this)<br>
+  - If a folder is "unlocked", it can be picked up and sorted in the secure drive or recycling bin<br>
+  - All folders are either a secure folder or malware<br>
+  - All folders are worth exactly one unit of space (Can be seen on the bar at the bottom of the screen. When this fills up, it is a game over)
+
+With these contrainsts I 
+
+
+<video width="640" height="360" autoplay muted loop>
+  <source src="/assets/DigitalJanitorsVideos/RunawayFolder.mp4" type="video/mp4">
+</video>
+  
 </p>

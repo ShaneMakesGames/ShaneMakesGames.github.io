@@ -5,13 +5,13 @@ summary: "Combat Designer"
 date:   2023-06-04 15:39:40
 preview: /assets/RecursionErrorPreview.png
 ---
-Game Design & Production Senior Project
+<p align="center">Game Design & Production Senior Project</p>
 
-Team Size : 17 People
+<p align="center">Team Size : 17 People</p>
 
-September 2022 - June 2023
+<p align="center">September 2022 - June 2023</p>
 
-Recursion Error is a roguelike hack-and-slash set in an original science-fantasy world.
+<p align="center">Recursion Error is a roguelike hack-and-slash set in an original science-fantasy world.</p>
 <p align="center">____________________________________________________________________________________</p>
 <p align="center">  
 <iframe width="720" height="405" src="https://www.youtube.com/embed/OASWarE0Y6E" title="Recursion Error Trailer | Cyber Duck Collective" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

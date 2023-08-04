@@ -6,7 +6,16 @@ layout: default
    <h1 style="text-align: center;">{{ page.title }}</h1>
 	<h5 style="text-align: center;">{{ page.summary }}</h5>
   </header>
+<div class="post-nav">
+    {% if page.next.url %}
+      <a class="nav-item" href="{{ page.next.url | prepend: site.baseurl }}">&laquo; Prev</a>
+    {% endif %}
+    {% if page.previous.url %}
+      <a class="nav-item" href="{{ page.previous.url | prepend: site.baseurl }}">Next &raquo;</a>
+    {% endif %}
+  </div>
 
+	
   <article class="post-content">
     {{ content }}
   </article>

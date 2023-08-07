@@ -13,7 +13,7 @@ preview: /assets/RecursionErrorPreview.png
 <p align="center">  
 <iframe width="720" height="405" src="https://www.youtube.com/embed/OASWarE0Y6E" title="Recursion Error Trailer | Cyber Duck Collective" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Responsibilities :<br>
+<b>Responsibilities :</b><br>
   - Designed 3 weapons that encourage different playstyles<br>
   - Wrote documentation on weapon designs<br>
   - Programmed base weapon functionality and unique weapon mechanics<br>
@@ -24,6 +24,7 @@ Responsibilities :<br>
 I strived to create a fast-paced combat system that is easy to pick up but still rewards player skill. To keep things simple, there are three main actions you can take during combat besides basic movement: Light attack, Heavy attack, and Dash. Each weapon has a different light and heavy attack, though your dash remains the same. Dashing grants a quick burst of speed and provides brief invulnerability, allowing you to evade enemy attacks with it. This basic control scheme makes it easy to play for the first time and start defeating enemies, however it still allows for depth in other ways. For example, multiple weapons have unique or modified attacks accessed by holding and releasing the light attack button with proper timing instead of just pressing it.
 <br>
 
+<b> Visual Polish</b>
 <img src="/assets/RecursionErrorGifs/VisualFeedback.gif">
 Throughout the course of development, the combat system went through a number of changes, most notably in regard to visual feedback. At first, I did not want to display enemy healthbars or damage numbers from attacks because I was worried about screen clutter. But after trying it out I realized not only was it important information to have available, but it also made the game feel better to play. Employing this, along with screen shake, hit stop, and attack pushback went a very long way in making attacks feel more powerful. Originally enemies’ attacks would not be interrupted when they took damage. I wanted the game to be somewhat challenging and thought that just having a dash with i-frames would be enough defensively. This ended up punishing players for attacking enemies head-on, which went directly against the encouraged playstyle of the axe. After adding attack interruption I realized the game bacame a little easier but more importantly, it felt more fair.
 <br>

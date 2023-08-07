@@ -11,6 +11,7 @@ preview: /assets/RecursionErrorPreview.png
 ---
 <p align="center">  
 ____________________________________________________________________________________
+<br>
 <iframe width="720" height="405" src="https://www.youtube.com/embed/OASWarE0Y6E" title="Recursion Error Trailer | Cyber Duck Collective" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <b>Responsibilities :</b><br>

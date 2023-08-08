@@ -1,5 +1,6 @@
 ---
 layout: post
+header: /assets/DigitalJanitorsHeader.png
 title:  "Digital Janitors"
 role: "Technical Game Designer"
 context: "Game Released on Steam"

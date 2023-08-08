@@ -20,17 +20,26 @@ Responsibilities : <br>
 
 The gameplay core of Digital Janitors consists of sorting secure folders or malware into either the secure drive or recycling bin respectively. The player interacts with folders using their mouse cursor, making the game play closer to an aim trainer than a game with a traditional combat system. Folders are the enemies of the game, requiring the player to deal with them to progress.<br><br>
 
-I grouped folder types into four categories : Moving, Locked, Elusive, and Disruptive.
+I grouped folder types into four categories : Moving, Locked, Elusive, and Disruptive.<br>
 <video width="640" height="360" autoplay muted loop>
   <source src="/assets/DigitalJanitorsVideos/RunawayFolder.mp4" type="video/mp4">
-</video>
-<br>
+</video><br>
 Evasive folders are the most straight-forward of the four. They are folders that move around, making it harder to pick them up. These folder types are not immediately dangerous, but can quickly get out of hand if the screen gets filled with them. There are also folders that only move when you do and folders that teleport to random positions around the screen.
 <br>
 
 <video width="640" height="360" autoplay muted loop>
   <source src="/assets/DigitalJanitorsVideos/LockedFolders.mp4" type="video/mp4">
-</video>
-<br>
+</video><br>
 Locked folders on the other hand are specifically designed to take more time to deal with than most folders. They are folders that start off locked and require the player to do something before they can be picked up and dragged. Examples include the Encrypted Folder which requires you to decrypt it by selecting all of the yellow circles and the Spam folder which opens several pop-ups when you click on it.
+<br>
+
+<video width="640" height="360" autoplay muted loop>
+  <source src="/assets/DigitalJanitorsVideos/ElusiveFolders.mp4" type="video/mp4">
+</video><br>
+
+<video width="640" height="360" autoplay muted loop>
+  <source src="/assets/DigitalJanitorsVideos/DisruptorFolders.mp4" type="video/mp4">
+</video><br>
+
+
 </p>

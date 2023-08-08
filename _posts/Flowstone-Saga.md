@@ -14,9 +14,9 @@ preview: /assets/FlowstonePreview.png
 <iframe width="720" height="405" src="https://www.youtube.com/embed/uqNS-6pwP3A" title="Flowstone Saga Next Fest Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <b>Responsibilities :</b><br>
-  - Implemented monster abilities and character item passives<br>
-  - Set-up UI screens based on layouts from designers<br>
-  - Updated systems such as asset loading, localization, and input device detection<br>
+  - Programmed monster abilities and character item passives<br>
+  - Implemented UI screens and functionality based on layouts from designers<br>
+  - Updated systems such as asset loading, localization, and input device detection for UI icons<br>
   - Wrote documentation on how to work with new sytems<br>
 
 I strived to create a fast-paced combat system that is easy to pick up but still rewards player skill. To keep things simple, there are three main actions you can take during combat besides basic movement: Light attack, Heavy attack, and Dash. Each weapon has a different light and heavy attack, though your dash remains the same. Dashing grants a quick burst of speed and provides brief invulnerability, allowing you to evade enemy attacks with it. This basic control scheme makes it easy to play for the first time and start defeating enemies, however it still allows for depth in other ways. For example, multiple weapons have unique or modified attacks accessed by holding and releasing the light attack button with proper timing instead of just pressing it.

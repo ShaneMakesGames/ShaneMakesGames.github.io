@@ -24,12 +24,15 @@ ________________________________________________________________________________
 <b> Monster Powers</b>
 <img src="/assets/FlowstoneSagaGifs/LightningStrike.gif">
 Monster powers are special attacks that enemies use during a battle, usually with a moderate cooldown. Tile removers are one type of monster power, that disrupts the player by removing tiles from the board and dealing damage based on the number of tiles removed. In this example a lightning bolt strikes down and removes tiles vertically in a zig-zag pattern.   
+
+<img src="/assets/FlowstoneSagaGifs/Tornado.gif">
+This monster power is another disruption type ability, placing a tornado on the board. When any tiles are dropped on top of the tornado, it sends them flying and they will land in a random position on the board. It lasts for a set amount of time based on the game difficulty, but while it is active it forces the player to play around it.   
 ____________________________________________________________________________________
 <br><br>
 
 <b>UI</b><br>
 <img src="/assets/FlowstoneSagaGifs/EquipmentUI.gif">
-
+One of the UI menus that I worked on was the Equipment menu. It allows you to pick which items are equipped for the characters in your party before you go into a battle. It also shows a comparison of the stats of your currently equipped weapon against the weapon your are looking at.
 <br><br>
 
 

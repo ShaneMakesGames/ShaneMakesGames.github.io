@@ -18,7 +18,7 @@ Responsibilities : <br>
   - Designed and programmed 3 boss fights<br>
   - Wrote documentation on designs<br><br>
 
-The gameplay core of Digital Janitors consists of sorting secure folders or malware into either the secure drive or recycling bin respectively. The player interacts with folders using their mouse cursor, making the game play closer to an aim trainer than a game with a traditional combat system. Folders are the enemies of the game, requiring the player to deal with them.<br><br>
+The gameplay core of Digital Janitors consists of sorting secure folders or malware into either the secure drive or recycling bin respectively. The player interacts with folders using their mouse cursor, making the game play closer to an aim trainer than a game with a traditional combat system. Folders are the enemies of the game, requiring the player to deal with them to progress.<br><br>
 
 I grouped folder types into four categories : Moving, Locked, Elusive, and Disruptive.
 <video width="640" height="360" autoplay muted loop>
@@ -29,7 +29,7 @@ Evasive folders are the most straight-forward of the four. They are folders that
 <br>
 
 <video width="640" height="360" autoplay muted loop>
-  <source src="/assets/DigitalJanitorsVideos/EncryptedFolder.mp4" type="video/mp4">
+  <source src="/assets/DigitalJanitorsVideos/LockedFolders.mp4" type="video/mp4">
 </video>
 <br>
 Locked folders on the other hand are specifically designed to take more time to deal with than most folders. They are folders that start off locked and require the player to do something before they can be picked up and dragged. Examples include the Encrypted Folder which requires you to decrypt it by selecting all of the yellow circles and the Spam folder which opens several pop-ups when you click on it.

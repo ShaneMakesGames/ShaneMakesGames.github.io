@@ -3,13 +3,13 @@ layout: default
 ---
 <div class="post">
   <header class="post-header">
-   <h1 style="text-align: center;">{{ page.title }}</h1>
+	  <img src="{{ page.header }}">
+	  <h1 style="text-align: center;">{{ page.title }}</h1>
 	  <h5 style="text-align: center;">{{ page.role }}</h5>
 	  <h5 style="text-align: center;">{{ page.context }}</h5>
 	  <h5 style="text-align: center;">{{ page.team-size }}</h5>
 	  <h5 style="text-align: center;">{{ page.timeline }}</h5>
 	  <h5 style="text-align: center;">{{ page.summary }}</h5>
-	  <h5 style="text-align: center;">{{ page.divider }}</h5>
   </header>
 <div class="post-nav">
     {% if page.next.url %}

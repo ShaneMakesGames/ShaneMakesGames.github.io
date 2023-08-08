@@ -40,7 +40,7 @@ ________________________________________________________________________________
 Locked folders on the other hand are specifically designed to take more time to deal with than most folders. They are folders that start off locked and require the player to do something before they can be picked up and dragged. The designs are kept fairly simple so they will be intuitive to deal with, but since most of them require multiple clicks to deal with it gives time for other folders to spawn. The encrypted folder requires you to decrypt it by opening the UI and selecting all of the yellow circles. The spam folder opens several pop-ups that cover the screen and must be closed one by one. 
 <br>
 ____________________________________________________________________________________
-<br><br>
+<br><br><br>
 
 <b>Trick Folders</b>
 <video width="640" height="360" autoplay muted loop>

@@ -1,4 +1,3 @@
-<p align="center">  <img src="/assets/DigitalJanitorsHeader.png"></p>
 ---
 layout: post
 title:  "Digital Janitors"

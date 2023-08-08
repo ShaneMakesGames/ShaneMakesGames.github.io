@@ -1,3 +1,4 @@
+<p align="center">  <img src="/assets/RecursionErrorHeader.png"></p>
 ---
 layout: post
 title:  "Recursion Error"

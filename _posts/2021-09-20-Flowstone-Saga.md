@@ -36,5 +36,5 @@ One of the UI menus that I worked on was the Equipment menu. It allows you to pi
 <br><br>
 
 
-Or if you'd like to <b>play the demo</b> yourself, here is the <a href="https://store.steampowered.com/app/1372000/Flowstone_Saga/"> Steam Page</a>.
+If you'd like to <b>play the demo</b> yourself, here is the <a href="https://store.steampowered.com/app/1372000/Flowstone_Saga/"> Steam Page</a>.
 </p>

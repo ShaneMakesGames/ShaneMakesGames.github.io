@@ -7,7 +7,7 @@ team-size: "Team Size : 20 People"
 timeline: "September 2021 - Present"
 summary: "Flowstone Saga is an epic adventure inspired by classic JRPGs, featuring a unique puzzle battle system."
 date:   2021-09-20 15:39:40
-preview: /assets/FlowstonePreview.png
+preview: /assets/FlowstoneSagaPreview.png
 ---
 <p align="center">____________________________________________________________________________________</p>
 <p align="center">

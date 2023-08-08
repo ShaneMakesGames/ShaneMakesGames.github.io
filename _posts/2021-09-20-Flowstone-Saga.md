@@ -10,7 +10,7 @@ date:   2021-09-20 15:39:40
 preview: /assets/FlowstonePreview.png
 ---
 <p align="center">____________________________________________________________________________________</p>
-<p align="center">  
+<p align="center">
 <iframe width="720" height="405" src="https://www.youtube.com/embed/uqNS-6pwP3A" title="Flowstone Saga Next Fest Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <b>Responsibilities :</b><br>
@@ -23,9 +23,9 @@ I strived to create a fast-paced combat system that is easy to pick up but still
 ____________________________________________________________________________________
 <br><br>
 
-<b> Visual Feedback</b>
-<img src="/assets/RecursionErrorGifs/VisualFeedback.gif">
-Throughout the course of development, the combat system went through a number of changes, most notably in regard to visual feedback. At first, I did not want to display enemy healthbars or damage numbers from attacks because I was worried about screen clutter. But after trying it out I realized not only was it important information to have available, but it also made the game feel better to play. Employing this, along with screen shake, hit stop, and attack pushback went a very long way in making attacks feel more powerful. Originally enemies’ attacks would not be interrupted when they took damage. I wanted the game to be somewhat challenging and thought that just having a dash with i-frames would be enough defensively. This ended up punishing players for attacking enemies head-on, which went directly against the encouraged playstyle of the axe. After adding attack interruption I realized the game bacame a little easier but more importantly, it felt more fair.
+<b> Monster Powers</b>
+<img src="/assets/FlowstoneSagaGifs/LightningStrike.gif">
+Monster powers are special attacks that enemies use during a battle, usually with a moderate cooldown. Tile removers are one type of monster power, that disrupts the player by removing tiles from the board and dealing damage based on the number of tiles removed. In this example a lightning bolt strikes down and removes tiles vertically in a zig-zag pattern.   
 ____________________________________________________________________________________
 <br><br>
 

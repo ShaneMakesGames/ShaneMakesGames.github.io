@@ -1,5 +1,3 @@
-<p align="center">  <img src="/assets/FlowstoneSagaHeader.png"></p>
-
 ---
 layout: post
 title:  "Flowstone Saga"

@@ -14,7 +14,7 @@ preview: /assets/RecursionErrorPreview.png
 <iframe width="720" height="405" src="https://www.youtube.com/embed/OASWarE0Y6E" title="Recursion Error Trailer | Cyber Duck Collective" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <b>Responsibilities :</b><br>
-  - Designed 3 weapons that encourage different playstyles<br>
+  - Designed movesets for 3 weapons that encourage different playstyles<br>
   - Wrote documentation on weapon designs<br>
   - Programmed base weapon functionality and unique weapon mechanics<br>
   - Tweaked weapon parameters such as attack speeds and damage amounts based on playtest data<br>

@@ -18,7 +18,7 @@ Responsibilities : <br>
   - Designed and programmed 3 boss fights<br>
   - Wrote documentation on designs<br><br>
 
-The gameplay core of Digital Janitors consists of sorting secure folders or malware into either the secure drive or recycling bin respectively. The player interacts with folders using their mouse cursor, making the game play closer to an aim trainer than a game with a traditional combat system. Folders are the enemies of the game, requiring the player to deal with them to progress. If too many folders are on screen at once, the bar at the bottom of the screen signifying the available space on the computer fills up, leading to a game over.<br><br>
+The gameplay core of Digital Janitors consists of sorting secure folders or malware into either the secure drive or recycling bin respectively. The player interacts with folders using their mouse cursor, making the game play closer to an aim trainer than a game with a traditional combat system. Folders are the enemies of the game, requiring the player to deal with them to progress. If too many folders are on screen at once, the available disk space on the computer (shown by the bar at the bottom of the screen) fills up, leading to a game over.<br><br>
 
 I grouped folder types into four categories :<br>
 ____________________________________________________________________________________
@@ -58,7 +58,7 @@ ________________________________________________________________________________
 Disruptor folders are by far the most dangerous folder type and will lead to a game over if not dealt with quickly. When one is on screen they should be the highest priority, which is why they have bright and flashy artwork to stand out among the rest. The payload folder moves to the bottom of the screen and starts to corrupt the PC. While it is active, a red bar starts moving the opposite direction of the normal storage space bar and if the two overlap it leads to a game over. Once the payload folder is taken away from the bottom of the screen, the red bar will begin slowly receding. The bomb folder has a fire burning down a fuse. Once the fuse  reaches the folder it explodes, spawning three random folders. The spider folder follows other folders and weaves a web which stops them from moving, including being picked up by the player. The player must rapdily click on the web to break it. 
 <br><br>
 
-If you'd like to <b>read more</b> in-depth, here is my <a href="https://docs.google.com/document/d/1E4p4KDIr2QUzw1-vumjemMU4ms_Baho3OnM1Yt-2bw4/edit"> Folder Design Document</a>.<br>
+If you'd like to <b>read more</b> in-depth, here is my <a href="https://docs.google.com/document/d/1E4p4KDIr2QUzw1-vumjemMU4ms_Baho3OnM1Yt-2bw4/edit?usp=sharing"> Folder Design Document</a>.<br>
 Want to <b>see my code samples</b> from the project, they are here : <a href="https://github.com/ShaneMakesGames/Code-Samples/tree/main/Digital-Janitors"> Digital Janitors Code Samples</a>.<br>
 Or if you'd like to <b>play the game</b> yourself, here is the <a href="https://store.steampowered.com/app/1389850/Digital_Janitors/"> Steam Page</a>.
 </p>

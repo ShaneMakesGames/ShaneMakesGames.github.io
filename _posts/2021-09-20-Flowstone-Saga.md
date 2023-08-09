@@ -17,6 +17,7 @@ preview: /assets/FlowstoneSagaPreview.png
   - Worked closely with designers to program monster abilities and character item passives<br>
   - Implemented UI screens and functionality based on layouts from designers<br>
   - Updated systems such as asset loading, localization, and input device detection for UI icons<br>
+  - Communicated with QA team to fix bugs
   - Wrote documentation on how to work with new systems<br><br>
 ____________________________________________________________________________________
 <br><br>

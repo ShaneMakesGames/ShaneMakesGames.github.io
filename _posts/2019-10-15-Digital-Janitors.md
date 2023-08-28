@@ -8,7 +8,7 @@ summary: "An action-packed desktop defense game where hackers have taken your em
 date:   2019-10-15 15:39:40
 preview: /assets/DigitalJanitorsPreview.png
 ---
-<p align="center"><a href="https://store.steampowered.com/app/1372000/Flowstone_Saga/"><img src="/assets/steam_logo_64x.png"></a><img src="/assets/switch_logo_64x.png"></p>
+<p align="center"><a href="https://store.steampowered.com/app/1389850/Digital_Janitors/"><img src="/assets/steam_logo_64x.png"></a></p>
 <p align="center">____________________________________________________________________________________</p>
 <p align="center">
 <iframe width="720" height="405" src="https://www.youtube.com/embed/ZgYnhckP1VA" title="Digital Janitors Launch Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

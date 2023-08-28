@@ -1,7 +1,6 @@
 ---
 layout: post
 role: "Technical Game Designer"
-context: "Game Released on Steam"
 team-size: "Team Size : 6 People"
 timeline: "November 2019 - October 2021"
 summary: "An action-packed desktop defense game where hackers have taken your employer’s network hostage."

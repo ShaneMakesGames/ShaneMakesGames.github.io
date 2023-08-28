@@ -9,6 +9,7 @@ summary: "A roguelike hack-and-slash set in an original science-fantasy world."
 date:   2022-09-04 15:39:40
 preview: /assets/RecursionErrorPreview.png
 ---
+<p align="center"><a href="https://shanegamedev.itch.io/recursion-error"><img src="/assets/itch_logo_64x.png"></a></p>
 <p align="center">____________________________________________________________________________________</p>
 <p align="center">  
 <iframe width="720" height="405" src="https://www.youtube.com/embed/OASWarE0Y6E" title="Recursion Error Trailer | Cyber Duck Collective" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

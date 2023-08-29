@@ -2,7 +2,6 @@
 layout: post
 title:  "Flowstone Saga"
 role: "Junior Programmer"
-context: "Game coming soon to Steam and Switch"
 team-size: "Team Size : 20 People"
 timeline: "September 2021 - Present"
 summary: "Flowstone Saga is an epic adventure inspired by classic JRPGs, featuring a unique puzzle battle system."

@@ -3,6 +3,7 @@ layout: page
 title: "Resume"
 permalink: /resume/
 ---
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
 Here's my resume:
 

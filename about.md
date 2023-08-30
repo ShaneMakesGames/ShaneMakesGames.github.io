@@ -3,6 +3,7 @@ layout: page
 title: "About Me"
 permalink: /about/
 ---
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
 ![Picture 1](/assets/NewShaneProfileCropped.png)
 

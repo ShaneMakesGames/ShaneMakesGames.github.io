@@ -6,7 +6,7 @@ team-size: "Team Size : 3 People"
 timeline: "July 2023 - Present"
 summary: "A 2D sprite-based fighting game set in a cartoonish, halloween inspired world featuring new takes on classic monsters."
 date:   2018-09-04 15:39:40
-preview: /assets/RecursionErrorPreview.png
+preview: /assets/BrawloweenPreview.png
 ---
 <p align="center">____________________________________________________________________________________</p>
 <p align="center">  

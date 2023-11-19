@@ -5,7 +5,7 @@ role: "Technical Game Designer"
 team-size: "Team Size : 3 People"
 timeline: "July 2023 - Present"
 summary: "A 2D sprite-based fighting game set in a cartoonish, halloween inspired world featuring new takes on classic monsters."
-date:   2022-09-04 15:39:40
+date:   2018-09-04 15:39:40
 preview: /assets/RecursionErrorPreview.png
 ---
 <p align="center">____________________________________________________________________________________</p>

@@ -12,7 +12,7 @@ preview: /assets/BrawloweenPreview.png
 <p align="center">  
 
 <b>Responsibilities :</b><br>
-  - Developed custom editor tools for creating new normal attacks and special moves
+  - Developed custom editor tools for creating new normal attacks and special moves<br>
  
   - Designed movesets for 3 weapons that encourage different playstyles<br>
   - Wrote documentation on weapon designs<br>

@@ -1,20 +1,20 @@
 ---
 layout: post
-title:  "Recursion Error"
-role: "Combat Designer"
-context: "Game Design & Production Senior Project"
-team-size: "Team Size : 17 People"
-timeline: "September 2022 - June 2023"
-summary: "A roguelike hack-and-slash set in an original science-fantasy world."
+title:  "Brawloween"
+role: "Technical Game Designer"
+team-size: "Team Size : 3 People"
+timeline: "July 2023 - Present"
+summary: "A 2D sprite-based fighting game set in a cartoonish, halloween inspired world featuring new takes on classic monsters."
 date:   2022-09-04 15:39:40
 preview: /assets/RecursionErrorPreview.png
 ---
 <p align="center"><a href="https://shanegamedev.itch.io/recursion-error"><img src="/assets/itch_logo_64x.png"></a></p>
 <p align="center">____________________________________________________________________________________</p>
 <p align="center">  
-<iframe width="720" height="405" src="https://www.youtube.com/embed/OASWarE0Y6E" title="Recursion Error Trailer | Cyber Duck Collective" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <b>Responsibilities :</b><br>
+  - Created custom editor tools for creating new normal attacks and special moves
+ 
   - Designed movesets for 3 weapons that encourage different playstyles<br>
   - Wrote documentation on weapon designs<br>
   - Programmed base weapon functionality and unique weapon mechanics<br>
@@ -44,27 +44,6 @@ I learned from playtesting that not a lot of people realized the Axe's follow-up
 First, I added a training room that is accessible from the main hub at any time. In this room, you can try out each weapon in a safe environment and there is UI that highlights each weapon's unique features. I also changed the input for the follow-up attack. Now, holding the light attack will have you first perform a light attack and then the follow-up attack. However, if you release the button when you see the flash you will get the faster, “perfect” version of the attack.
 ____________________________________________________________________________________
 <br><br>
-
-<b>The Daggers</b><br>
-<video width="640" height="360" autoplay muted loop>
-  <source src="/assets/RecursionErrorVideos/RecursionError_Daggers.mp4" type="video/mp4">
-</video>
-<br>
-The Daggers are the fastest weapon in the game, allowing you to weave in and out of enemies' reach while slicing them to pieces. The daggers attacks do not have large hitboxes so to be proficient with them, you must make use of dashing for both movement and defense like a true assassin. They are the only weapon that has a string of light attacks. By pressing the light attack button again within a lenient amount of time, you can perform up to two follow-up attacks. The design of the daggers stayed consistent throughout development, but it did take a good deal of tweaking to balance the damage and speed of its attacks. <br><br>
-
-At first the total duration of the dagger’s attacks was too long, making it difficult to react to an enemy’s attack and dodge it if you had just attacked. I ended up making the first two light attacks in the dagger’s string very quick, while the third and final attack has more recovery but deals more damage. This way when using the daggers, you can attack twice and likely still be able to dodge any incoming attacks or get greedy and go for all three hits, leaving yourself more vulnerable to other enemies’ attacks.
-____________________________________________________________________________________
-<br><br>
-
-<b>The Gauntlets</b><br>
-<video width="640" height="360" autoplay muted loop>
-  <source src="/assets/RecursionErrorVideos/RecursionError_Gauntlets.mp4" type="video/mp4">
-</video>
-<br>
-The Gauntlets are a powerful weapon allowing you to shoot energy from your fists. It is a hybrid melee/ranged weapon for players who want to fight from afar. Holding the light attack button allows you to aim your attack in any direction and the heavy attack can be used to push enemies back. This weapon is the one that went through the most iteration. <br><br>
-
-At first the ranged attacks were far too strong, leading to playtesters running away and defeating enemies without ever taking damage. This made things far too easy and went against our goal of creating fast-paced combat. So to remedy this, I changed the heavy attack to an uppercut that pushes enemies away. I then decreased the base damage of the ranged attack but made it so landing a heavy attack empowers your ranged attack for a small amount of time. This ended up encouraging players to stay just out of their enemies' range so they could land an uppercut and then dash away to deal damage with the ranged attack.<br><br>
-
 
 If you'd like to <b>read more</b> in-depth, here is my <a href="https://docs.google.com/document/d/1bT9IFHqPR0wT22lfVg5XTb69fw_1GM0wqV9EgFpAeLM/edit?usp=sharing"> Weapon Design Document</a>.<br>
 Want to <b>see my code samples</b> from the project, they are here : <a href="https://github.com/ShaneMakesGames/Code-Samples/tree/main/Recursion%20Error"> Recursion Error Code Samples</a>.<br>

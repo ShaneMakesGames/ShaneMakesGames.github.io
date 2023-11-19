@@ -8,7 +8,6 @@ summary: "A 2D sprite-based fighting game set in a cartoonish, halloween inspire
 date:   2022-09-04 15:39:40
 preview: /assets/RecursionErrorPreview.png
 ---
-<p align="center"><a href="https://shanegamedev.itch.io/recursion-error"><img src="/assets/itch_logo_64x.png"></a></p>
 <p align="center">____________________________________________________________________________________</p>
 <p align="center">  
 

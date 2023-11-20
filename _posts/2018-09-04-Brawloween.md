@@ -14,7 +14,7 @@ preview: /assets/BrawloweenPreview.png
 <b>Responsibilities :</b><br>
   - Developed custom editor tools for creating new normal attacks and special moves<br>
   - Programmed core gameplay systems and input buffering system
-  - Designed movesets for characters including movemenet abilties, special moves, and normal attacks
+  - Designed movesets for characters including movement abilties, special moves, and normal attacks
 
 ____________________________________________________________________________________
 <br><br>

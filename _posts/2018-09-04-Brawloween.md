@@ -19,4 +19,8 @@ preview: /assets/BrawloweenPreview.png
 ____________________________________________________________________________________
 <br><br>
 
+<b> Custom Editor Tools</b>
+<img src="/assets/BrawloweenGifs/NormalAttackCustomEditor.gif">
+
+
 </p>

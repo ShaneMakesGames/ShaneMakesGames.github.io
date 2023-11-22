@@ -26,5 +26,5 @@ One of my responsibilities on the project is to create tools to facilitate our c
 
 If you'd like to <b>read more</b> in-depth, here is my <a href="https://docs.google.com/document/d/13dCv29WsFoRbIdVQaPxMXBdBqzNINogZ-KMvsr4hsMQ/edit?usp=sharing"> Move Editor Documentation</a>.<br>
 
-I am also working on designing character movesets 
+I am also working on designing character movesets for the game. To find out about Clive, the Lycanthrope Boxer check out this <a href="https://docs.google.com/presentation/d/1CkrKZsPXxnj9OIx9VlyO5beNVD9z0Yoe6RaSJvzs8zk/edit?usp=sharing"> Pitch Deck</a> I made.
 </p>

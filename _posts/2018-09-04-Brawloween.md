@@ -10,7 +10,7 @@ preview: /assets/BrawloweenPreview.png
 ---
 <p align="center">____________________________________________________________________________________</p>
 <p align="center">  
-<img src="/assets/BrawloweenGifs/BoxerMovementOptions"><br>
+<img src="/assets/BrawloweenGifs/BoxerMovementOptions.gif"><br>
 <b>Responsibilities :</b><br>
   - Developed custom editor tools for creating new normal attacks and special moves<br>
   - Documented Instructions for using development tools<br>

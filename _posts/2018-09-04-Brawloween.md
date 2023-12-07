@@ -31,5 +31,5 @@ I am also working on designing character movesets for the game. To learn about C
 
 The unique aspect of Brawloween is that <b>each playable character will have two different Styles</b>, both with <b>different normal attacks, special moves, and movement abilities</b>. A character’s two styles should lead to <b>synergy while still feeling distinct from one another</b>. For Clive, our first playable character, I wanted to differentiate the two styles with their movement options and gameplan.<br><br>
 
-His Boxer style has <b>phenomenal grounded movement</b> whereas his Werewolf style relies on <b>strong aerial movement</b>. The Boxer style has <b>great combo tools</b> but a fairly <b>straight forward gameplan</b> involving <b>strike/throw pressure</b>. The Werewolf on the other hand has <b>shorter combos</b> but <b>incredible tools for mix-ups</b> such as side-switches, an overhead, an airdash, and a fastfall. 
+His Boxer style has <b>phenomenal grounded movement</b> whereas his Werewolf style relies on <b>strong aerial movement</b>. The Boxer style has <b>great combo tools</b> but a fairly <b>straight forward gameplan</b> involving <b>strike/throw pressure</b>. The Werewolf style on the other hand has <b>shorter combos</b> but <b>incredible tools for mix-ups</b> such as side-switches, an overhead, an airdash, and a fastfall. 
 </p>

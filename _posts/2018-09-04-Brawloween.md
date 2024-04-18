@@ -10,7 +10,6 @@ preview: /assets/BrawloweenPreview.png
 ---
 <p align="center">____________________________________________________________________________________</p>
 <p align="center">  
-<b> The Axe</b><br>
 <video width="640" height="360" autoplay muted loop>
   <source src="/assets/BrawloweenVideos/BrawloweenUpdatedUI.mp4" type="video/mp4">
 </video>

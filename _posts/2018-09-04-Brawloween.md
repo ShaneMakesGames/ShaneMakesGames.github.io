@@ -4,13 +4,17 @@ title:  "Brawloween"
 role: "Technical Game Designer"
 team-size: "Team Size : 3 People"
 timeline: "July 2023 - Present"
-summary: "A 2D sprite-based fighting game set in a cartoonish, halloween inspired world featuring new takes on classic monsters."
+summary: "A 2D sprite-based fighting game set in a halloween inspired world featuring new takes on classic monsters."
 date:   2018-09-04 15:39:40
 preview: /assets/BrawloweenPreview.png
 ---
 <p align="center">____________________________________________________________________________________</p>
 <p align="center">  
-<img src="/assets/BrawloweenGifs/CliveCombo.gif"><br>
+<b> The Axe</b><br>
+<video width="640" height="360" autoplay muted loop>
+  <source src="/assets/BrawloweenVideos/BrawloweenUpdatedUI.mp4" type="video/mp4">
+</video>
+<br>
 <b>Responsibilities :</b><br>
   - Developed custom editor tools for creating new normal attacks and special moves<br>
   - Documented Instructions for using development tools<br>

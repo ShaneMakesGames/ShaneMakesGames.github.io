@@ -11,7 +11,7 @@ preview: /assets/BrawloweenPreview.png
 <p align="center">____________________________________________________________________________________</p>
 <p align="center">  
 <video width="640" height="360" autoplay muted loop>
-  <source src="/assets/BrawloweenVideos/BrawloweenUpdatedUI.mp4" type="video/mp4">
+  <source src="/assets/BrawloweenVideos/BrawloweenGameplay.mp4" type="video/mp4">
 </video>
 <br>
 <b>Responsibilities :</b><br>

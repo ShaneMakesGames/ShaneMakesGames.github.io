@@ -4,7 +4,7 @@ title:  "Flowstone Saga"
 role: "Junior Programmer"
 team-size: "Team Size : 20 People"
 timeline: "September 2021 - Present"
-summary: "Flowstone Saga is an epic adventure inspired by classic JRPGs, featuring a unique puzzle battle system."
+summary: "Flowstone Saga is a 16-bit RPG adventure with a unique puzzle-battle system."
 date:   2021-09-20 15:39:40
 preview: /assets/FlowstoneSagaPreview.png
 ---

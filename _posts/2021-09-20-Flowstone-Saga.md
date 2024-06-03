@@ -37,11 +37,7 @@ The goal in this stage is to quickly get the monster power's working so our arti
 
 3. Polish
 <img src="/assets/FlowstoneSagaGifs/LockAndKeyPower(Final).gif">
-At this point the functionality of the monster power is there so I am mostly cleaning up my code and replacing placeholder assets with final art. This is also when I add VFX, SFX, and other polish elements like screenshake depending on the ability.
-
-<br><br>
-<img src="/assets/FlowstoneSagaGifs/Tornado.gif">
-This is another disruption type monster power which places a tornado on the board. When any tiles are dropped on top of the tornado, it sends them flying and they will land in a random position on the board. It lasts for a set amount of time based on the game difficulty, but while it is active it forces the player to play around it.   
+At this point the functionality of the monster power is there so I am mostly cleaning up my code and replacing placeholder assets with final art. This is also when I add VFX, SFX, and other polish elements like screenshake depending on the ability. Above you can see the final look of the Lock and Key monster power.  
 ____________________________________________________________________________________
 <br><br>
 

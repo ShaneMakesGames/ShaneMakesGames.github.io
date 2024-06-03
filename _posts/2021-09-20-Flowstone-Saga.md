@@ -40,6 +40,8 @@ ________________________________________________________________________________
 <img src="/assets/FlowstoneSagaGifs/LockAndKeyHorizontal.gif">
 The goal in this stage is to quickly get the monster power's working so our artists can see it in motion and start making assets for it. Often times while prototyping I will come up with more questions, so I talk with our designer again and we decide how the ability should function. For example, when the Lock and Key power blocks off the board horizontally it is common to have left over tiles after clearing the key tile. I spoke with our designer and we decided that these tiles should fall down and fill in gaps after the ability has ended because that is not where we wanted the difficulty to come from with the power.<br><br>
 
+____________________________________________________________________________________
+<br><br>
 <b>3. Polish</b>
 <img src="/assets/FlowstoneSagaGifs/LockAndKeyPower(Final).gif">
 At this point the functionality of the monster power is there so I am mostly cleaning up my code and replacing placeholder assets with final art. This is also when I add VFX, SFX, and other polish elements like screenshake depending on the ability. Above you can see the final look of the Lock and Key monster power.  

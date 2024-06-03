@@ -24,7 +24,19 @@ ________________________________________________________________________________
 
 <b> Monster Powers</b>
 <img src="/assets/FlowstoneSagaGifs/LightningStrike.gif">
-Monster powers are special attacks that enemies use during a battle, usually with a moderate cooldown. Tile removers are one type of monster power, that disrupts the player by removing tiles from the board and dealing damage based on the number of tiles removed. In this example a lightning bolt strikes down and removes tiles vertically in a zig-zag pattern.   
+Monster powers are special attacks that enemies use during a battle, usually with a moderate cooldown. Tile removers are one type of monster power, that disrupts the player by removing tiles from the board and dealing damage based on the number of tiles removed. In this example a lightning bolt strikes down and removes tiles vertically in a zig-zag pattern.<br><br>
+
+Setting up monster powers is one of my main responsibilities on the project and the process for creating one can be broken up into three main steps.<br>
+1. Planning
+<img src="/assets/Lock&Key(Mock-Up).png">
+It all starts with our designer making a ticket in our task management system. This includes a sketch as well as a description of the ability. I'll ask any preliminary questions I may have and start thinking about how to go about implementing the ability. The image above is the mock-up for the Lock and Key power which blocks off a section of the board with lock tiles and then tosses a key tile on one side. Once the key tile is cleared, all of the lock tiles will go away.<br><br>
+
+2. Prototyping
+<img src="/assets/FlowstoneSagaGifs/LockAndKeyHorizontal.gif">
+The goal in this stage is to quickly get the monster power's working so our artists can see it in motion and start making assets for it. Often times while prototyping I will come up with more questions, so I talk with our designer again and we decide how the ability should function. For example, when the Lock and Key power blocks off the board horizontally it is common to have left over tiles after clearing the key tile. I spoke with our designer and we decided that these tiles should fall down and fill in gaps after the ability has ended because that is not where we wanted the difficulty to come from with the power.
+
+3. Polish
+
 <br><br>
 <img src="/assets/FlowstoneSagaGifs/Tornado.gif">
 This is another disruption type monster power which places a tornado on the board. When any tiles are dropped on top of the tornado, it sends them flying and they will land in a random position on the board. It lasts for a set amount of time based on the game difficulty, but while it is active it forces the player to play around it.   

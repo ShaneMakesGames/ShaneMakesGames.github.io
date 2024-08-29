@@ -14,11 +14,11 @@ preview: /assets/FlowstoneSagaPreview.png
 <iframe width="720" height="405" src="https://www.youtube.com/embed/uqNS-6pwP3A" title="Flowstone Saga Next Fest Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <b>Responsibilities :</b><br>
-  - Worked closely with designers to program monster abilities and character item passives<br>
-  - Implemented UI screens and functionality based on layouts from designers<br>
-  - Updated systems such as asset loading, localization, and input device detection for UI icons<br>
-  - Communicated with QA team to fix bugs<br>
-  - Wrote documentation on how to work with new systems<br><br>
+- Worked with different disciplines on gameplay features such as 106 enemy abilities, 28 character item passives, and 7 class types<br>
+- Implemented layouts and functionality for 3 UI screens<br>
+- Built a system to display accurate controller icons in tutorials and helped with asset loading and storage, and localization systems<br>
+- Documented new asset loading pipeline for content team<br>
+- Coordinated with internal and localization QA team to fix bugs<br><br>
 ____________________________________________________________________________________
 <br><br>
 
@@ -47,6 +47,11 @@ ________________________________________________________________________________
 At this point the functionality of the monster power is there so I am mostly cleaning up my code and replacing placeholder assets with final art. This is also when I add VFX, SFX, and other polish elements like screenshake depending on the ability. Above you can see the final look of the Lock and Key monster power.  
 ____________________________________________________________________________________
 <br><br>
+
+<b>Documentation</b><br>
+Early into my time working on Flowstone, we switched to loading assets using Unity's Addressable Asset System and I was tasked with migrating a bunch of assets to be loaded using Addressables instead of Resources.Load(). After figuring out a good workflow I wrote up a document that walks you through the entire process from start-to-finish with visual examples. This ended up being a huge time-saver down the line because when new people were brought onto the content team I could just point them towards this document if they had any questions about the process.<br><br>
+
+Feel free to check out the document here : <a href="https://docs.google.com/document/d/1CgCN2DBm3LqS_b8gA4DRWRaaVjDBc943ztECmDGMwWY/edit?usp=sharing"> Addressables Documentation</a>.<br><br>
 
 <b>UI</b><br>
 <img src="/assets/FlowstoneSagaGifs/EquipmentUI.gif">

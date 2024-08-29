@@ -52,6 +52,8 @@ ________________________________________________________________________________
 Early into my time working on Flowstone Saga, we switched to loading assets using Unity's Addressable Asset System and I was tasked with migrating a bunch of assets to be loaded using Addressables instead of Resources.Load(). After figuring out a good workflow I wrote up a document that walks you through the entire process from start-to-finish with visual examples. This ended up being a huge time-saver down the line because when new people were brought onto the content team, I could just point them towards this document if they had any questions about the process.<br><br>
 
 Feel free to check out the document here : <a href="https://docs.google.com/document/d/1CgCN2DBm3LqS_b8gA4DRWRaaVjDBc943ztECmDGMwWY/edit?usp=sharing"> Addressables Documentation</a>.<br><br>
+____________________________________________________________________________________
+<br><br>
 
 <b>UI</b><br>
 <img src="/assets/FlowstoneSagaGifs/EquipmentUI.gif">

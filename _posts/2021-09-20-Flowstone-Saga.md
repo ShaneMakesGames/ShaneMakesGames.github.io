@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Flowstone Saga"
-role: "Junior Programmer"
+role: "Programmer"
 team-size: "Team Size : 20 People"
 timeline: "September 2021 - Present"
 summary: "Flowstone Saga is a 16-bit RPG adventure with a unique puzzle-battle system."
@@ -61,5 +61,5 @@ One of the UI menus that I worked on was the Equipment menu. It allows you to pi
 <br><br>
 
 
-If you'd like to <b>play the demo</b>, here is the <a href="https://store.steampowered.com/app/1372000/Flowstone_Saga/"> Steam Page</a>.
+If you'd like to <b>purchase the game</b>, here is the <a href="https://store.steampowered.com/app/1372000/Flowstone_Saga/"> Steam Page</a>.
 </p>

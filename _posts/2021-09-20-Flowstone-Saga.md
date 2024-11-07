@@ -5,7 +5,7 @@ role: "Programmer"
 team-size: "Team Size : 20 People"
 timeline: "September 2021 - Present"
 summary: "Flowstone Saga is a 16-bit RPG adventure with a unique puzzle-battle system."
-date:   2021-09-20 15:39:40
+date:   2024-09-26 15:39:40
 preview: /assets/FlowstoneSagaPreview.png
 ---
 <p align="center"><a href="https://store.steampowered.com/app/1372000/Flowstone_Saga/"><img src="/assets/steam_logo_64x.png"></a><img src="/assets/switch_logo_64x.png"></p>

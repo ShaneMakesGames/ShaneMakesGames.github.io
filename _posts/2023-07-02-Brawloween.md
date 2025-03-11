@@ -20,7 +20,7 @@ preview: /assets/BrawloweenPreview.png
   - Programmed core gameplay systems and input buffering system<br>
   - Designed movesets for characters including movement abilties, special moves, and normal attacks
 
-____________________________________________________________________________________
+<p align="center">____________________________________________________________________________________</p>
 <br><br>
 <p align="center">  
 <b> Custom Editor Tools</b><br>

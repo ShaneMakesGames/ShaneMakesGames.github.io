@@ -22,7 +22,7 @@ ________________________________________________________________________________
   - Implemented attack animations and hitboxes<br><br>
 
 I strived to create a fast-paced combat system that is easy to pick up but still rewards player skill. To keep things simple, there are three main actions you can take during combat besides basic movement: Light attack, Heavy attack, and Dash. Each weapon has a different light and heavy attack, though your dash remains the same. Dashing grants a quick burst of speed and provides brief invulnerability, allowing you to evade enemy attacks with it. This basic control scheme makes it easy to play for the first time and start defeating enemies, however it still allows for depth in other ways. For example, multiple weapons have unique or modified attacks accessed by holding and releasing the light attack button with proper timing instead of just pressing it.
-____________________________________________________________________________________
+<p align="center">____________________________________________________________________________________</p>
 <br><br>
 
 <p align="center">  
@@ -30,7 +30,7 @@ ________________________________________________________________________________
 <img src="/assets/RecursionErrorGifs/VisualFeedback.gif">
 </p>
 Throughout the course of development, the combat system went through a number of changes, most notably in regard to visual feedback. At first, I did not want to display enemy healthbars or damage numbers from attacks because I was worried about screen clutter. But after trying it out I realized not only was it important information to have available, but it also made the game feel better to play. Employing this, along with screen shake, hit stop, and attack pushback went a very long way in making attacks feel more powerful. Originally enemies’ attacks would not be interrupted when they took damage. I wanted the game to be somewhat challenging and thought that just having a dash with i-frames would be enough defensively. This ended up punishing players for attacking enemies head-on, which went directly against the encouraged playstyle of the axe. After adding attack interruption the game did become a little easier, but more importantly it felt more fair for the player.
-____________________________________________________________________________________
+<p align="center">____________________________________________________________________________________</p>
 <br><br>
 <p align="center">  
 <b> The Axe</b><br>
@@ -44,7 +44,7 @@ The Axe is a strong and reliable weapon with attacks that deal solid damage over
 I learned from playtesting that not a lot of people realized the Axe's follow-up attack existed until we told them about it. To account for this, I did two things. <br><br>
 
 First, I added a training room that is accessible from the main hub at any time. In this room, you can try out each weapon in a safe environment and there is UI that highlights each weapon's unique features. I also changed the input for the follow-up attack. Now, holding the light attack will have you first perform a light attack and then the follow-up attack. However, if you release the button when you see the flash you will get the faster, “perfect” version of the attack.
-____________________________________________________________________________________
+<p align="center">____________________________________________________________________________________</p>
 <br><br>
 <p align="center">  
 <b>The Daggers</b><br>
@@ -56,7 +56,7 @@ ________________________________________________________________________________
 The Daggers are the fastest weapon in the game, allowing you to weave in and out of enemies' reach while slicing them to pieces. The daggers attacks do not have large hitboxes so to be proficient with them, you must make use of dashing for both movement and defense like a true assassin. They are the only weapon that has a string of light attacks. By pressing the light attack button again within a lenient amount of time, you can perform up to two follow-up attacks. The design of the daggers stayed consistent throughout development, but it did take a good deal of tweaking to balance the damage and speed of its attacks. <br><br>
 
 At first the total duration of the dagger’s attacks was too long, making it difficult to react to an enemy’s attack and dodge it if you had just attacked. I ended up making the first two light attacks in the dagger’s string very quick, while the third and final attack has more recovery but deals more damage. This way when using the daggers, you can attack twice and likely still be able to dodge any incoming attacks or get greedy and go for all three hits, leaving yourself more vulnerable to other enemies’ attacks.
-____________________________________________________________________________________
+<p align="center">____________________________________________________________________________________</p>
 <br><br>
 <p align="center">  
 <b>The Gauntlets</b><br>

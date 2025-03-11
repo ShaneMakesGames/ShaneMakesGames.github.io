@@ -15,9 +15,9 @@ preview: /assets/1SheathPreview.png
 </video>
 <br>
 <b>Responsibilities :</b><br>
-- Setup a token system for enemy attacks to ensure only a set number of enemies can attack at once
-- Tweaked visual elements such as animation timing & hitstop to achieve satisfying combat without compromising responsiveness
-- Wrote a gameplay document outlining the core pillars, player actions, and objectives
+- Setup a token system for enemy attacks to ensure only a set number of enemies can attack at once<br>
+- Tweaked visual elements such as animation timing & hitstop to achieve satisfying combat without compromising responsiveness<br>
+- Wrote a gameplay document outlining the core pillars, player actions, and objectives<br>
 - Implemented UI motion for bars, hover states, and skill notifications
 
 ____________________________________________________________________________________

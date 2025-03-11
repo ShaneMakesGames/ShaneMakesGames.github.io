@@ -8,11 +8,11 @@ summary: "A score-attack action game. Both you and your enemies will die from a 
 date:   2017-09-04 15:39:40
 preview: /assets/1SheathPreview.png
 ---
-<p align="center">____________________________________________________________________________________</p>
-<p align="center">  
+<p align="center">____________________________________________________________________________________
 <video width="640" height="360" autoplay muted loop>
   <source src="/assets/1SheathVideos/1SheathGameplay.mp4" type="video/mp4">
 </video>
+</p>
 <br>
 <b>Responsibilities :</b><br>
 - Setup a token system for enemy attacks to ensure only a set number of enemies can attack at once<br>
@@ -22,10 +22,10 @@ preview: /assets/1SheathPreview.png
 
 ____________________________________________________________________________________
 <br><br>
-
+<p align="center">  
 <b>Keep Moving Forward</b><br>
-The first pillar of the game’s design is as follows: “the player should always be encouraged to keep moving forward”. I incentivized this is by skewing the risk/reward in the favor of being aggressive.<br>
 </p>
+The first pillar of the game’s design is as follows: “the player should always be encouraged to keep moving forward”. I incentivized this is by skewing the risk/reward in the favor of being aggressive.<br>
 - Enemy projectiles can be parried by a well timed attack so rather than dodging their attacks, it makes more sense to dash through them instead.<br>
 - Dashing spends a dash charge and only by getting a kill or parry can you regain your dash charge. I figured that if we put the dash on a cooldown after being used, some players might run away and wait out the cooldown timer rather than playing risky.<br>
 - Additionally, successful offensive actions can be canceled into other offensive actions (Ex. After attacking an enemy you can cancel the recovery animation by immediately dashing).<br>

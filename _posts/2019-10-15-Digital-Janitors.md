@@ -18,12 +18,13 @@ Responsibilities : <br>
   - Designed and programmed 15 power-up abilities<br>
   - Designed and programmed 3 boss fights<br>
   - Wrote documentation on designs<br><br>
-
+<p align="center">____________________________________________________________________________________</p>
+<br>
 The gameplay core of Digital Janitors consists of sorting secure folders or malware into either the secure drive or recycling bin respectively. The player interacts with folders using their mouse cursor, making the game play closer to an aim trainer than a game with a traditional combat system. Folders are the enemies of the game, requiring the player to deal with them to progress. If too many folders are on screen at once, the available disk space on the computer (shown by the bar at the bottom of the screen) fills up, leading to a game over.<br><br>
 
 I grouped folder types into four categories :<br>
 <p align="center">____________________________________________________________________________________</p>
-<br><br>
+<br>
 <p align="center">  
 <b>Evasive Folders</b>
 <video width="640" height="360" autoplay muted loop>
@@ -33,7 +34,7 @@ I grouped folder types into four categories :<br>
 Evasive folders are the most straight-forward of the four. They are folders that move around, making it harder to pick them up. These folder types are not immediately dangerous, but can quickly get out of hand if the screen gets filled with them. There are also folders that only move when you do and folders that teleport to random positions around the screen.
 <br>
 <p align="center">____________________________________________________________________________________</p>
-<br><br>
+<br>
 <p align="center">  
 <b>Locked Folders</b>
 <video width="640" height="360" autoplay muted loop>
@@ -43,7 +44,7 @@ Evasive folders are the most straight-forward of the four. They are folders that
 Locked folders on the other hand are specifically designed to take more time to deal with than most folders. They are folders that start off locked and require the player to do something before they can be picked up and dragged. The designs are kept fairly simple so they will be intuitive to deal with, but since most of them require multiple clicks to deal with it gives time for other folders to spawn. The encrypted folder requires you to decrypt it by opening the UI and selecting all of the yellow circles. The spam folder opens several pop-ups that cover the screen and must be closed one by one. 
 <br>
 <p align="center">____________________________________________________________________________________</p>
-<br><br>
+<br>
 <p align="center">  
 <b>Trick Folders</b><br>
 <video width="640" height="360" autoplay muted loop>
@@ -53,7 +54,7 @@ Locked folders on the other hand are specifically designed to take more time to 
 Trick folders, like the name implies, are more gimmicky than the rest. They use misdirection, traps, or tricks to slow down or distract the player. But unlike locked folders, the solution is not always so obvious. The magician folder creates two fake folders which disappear in a puff of smoke when dragged to the recycling bin or secure drive. It is impossible to tell if a folder is fake or not until it has been sorted, forcing the player to use trial and error to find the real one. The frozen folder has ice covering one of its corners and if the player hovers over this spot the folder will freeze up. Once this happens the folder cannot be picked up for a short amount of time. Lastly the split folder is split in half when it spawns and must be put back together before it can be sorted.
 <br>
 <p align="center">____________________________________________________________________________________</p>
-<br><br>
+<br>
 <p align="center">  
 <b>Disruptive Folders</b>
 <video width="640" height="360" autoplay muted loop>

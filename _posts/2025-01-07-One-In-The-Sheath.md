@@ -25,6 +25,7 @@ ________________________________________________________________________________
 
 <b>Keep Moving Forward</b><br>
 The first pillar of the game’s design is as follows: “the player should always be encouraged to keep moving forward”. I incentivized this is by skewing the risk/reward in the favor of being aggressive.<br>
+</p>
 - Enemy projectiles can be parried by a well timed attack so rather than dodging their attacks, it makes more sense to dash through them instead.<br>
 - Dashing spends a dash charge and only by getting a kill or parry can you regain your dash charge. I figured that if we put the dash on a cooldown after being used, some players might run away and wait out the cooldown timer rather than playing risky.<br>
 - Additionally, successful offensive actions can be canceled into other offensive actions (Ex. After attacking an enemy you can cancel the recovery animation by immediately dashing).<br>

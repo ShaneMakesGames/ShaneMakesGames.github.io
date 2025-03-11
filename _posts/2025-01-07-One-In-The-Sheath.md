@@ -11,7 +11,7 @@ preview: /assets/1SheathPreview.png
 <p align="center">____________________________________________________________________________________</p>
 <p align="center">  
 <video width="640" height="360" autoplay muted loop>
-  <source src="/assets/BrawloweenVideos/BrawloweenGameplay.mp4" type="video/mp4">
+  <source src="/assets/1SheathVideos/1SheathGameplay.mp4" type="video/mp4">
 </video>
 <br>
 <b>Responsibilities :</b><br>
@@ -21,7 +21,7 @@ preview: /assets/1SheathPreview.png
 - Implemented UI motion for bars, hover states, and skill notifications
 
 ____________________________________________________________________________________
-<br>
+<br><br>
 
 <b>Keep Moving Forward</b><br>
 The first pillar of the game’s design is as follows: “the player should always be encouraged to keep moving forward”. I incentivized this is by skewing the risk/reward in the favor of being aggressive.<br>
@@ -35,7 +35,7 @@ If you aren’t entering a flow state when playing One In The Sheath, then I hav
 <br><br>
 
 Very early into development I realized that this game would live or die by it’s game feel. I knew that I wanted to utilize hitstop to make every attack feel powerful but I quickly realized that this could interfere with our “keep moving forward” design pillars. If hitstop slows the game down too much it will do the opposite of my intent and actually take you out of that flow state. This issue would become especially obvious when reaching later waves with more enemies spawning. We could simply shorten the length of hitstop around the board, but this would make single hits feel less impactful. To account for both cases, I added hitstop scaling so when hitstop occurs immediately after one another, the next instance will be shorter. There is a minimum amount of hitstop that it cannot go below because if it is too short then it defeats the purpose. But hitstop scaling allows single hits to feel impactful while still retaining the feeling of slicing through each individual enemy.<br><br>
-<video width="640" height="360">
+<video width="640" height="360" autoplay muted loop>
   <source src="/assets/1SheathVideos/1SheathHitstopScaling.mp4" type="video/mp4">
 </video>
 <br>

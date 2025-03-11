@@ -6,7 +6,7 @@ team-size: "Team Size : 3 People"
 timeline: "January 2025 - February 2025"
 summary: "A score-attack action game. Both you and your enemies will die from a single attack. Using your dash-attack spends a resource that can be regained by killing enemies or parrying projectiles."
 date:   2017-09-04 15:39:40
-preview: /assets/BrawloweenPreview.png
+preview: /assets/1SheathPreview.png
 ---
 <p align="center">____________________________________________________________________________________</p>
 <p align="center">  

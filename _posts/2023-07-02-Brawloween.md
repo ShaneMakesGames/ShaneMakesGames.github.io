@@ -21,7 +21,7 @@ preview: /assets/BrawloweenPreview.png
   - Designed movesets for characters including movement abilties, special moves, and normal attacks
 
 <p align="center">____________________________________________________________________________________</p>
-<br><br>
+<br>
 <p align="center">  
 <b> Custom Editor Tools</b><br>
 <img src="/assets/BrawloweenGifs/NormalAttackCustomEditor.gif"><br>

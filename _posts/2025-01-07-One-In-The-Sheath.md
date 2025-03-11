@@ -40,6 +40,6 @@ Very early into development I realized that this game would live or die by it’
 </video>
 <br>
 
-Play the game here on my <a href="https://shanegamedev.itch.io/one-in-the-sheath">Itch.io Page</a>.<br><br>
-If you'd like to read more in-depth, here is my <a href="https://docs.google.com/document/d/1z-u6jxpOQ0967URzYsQztUvDtA67lIu9O2IFe62chjU/edit?usp=sharing"> Gameplay Document</a>.<br><br>
-Check out the entire codebase on <a href="https://github.com/ShaneMakesGames/Code-Samples/tree/main/One%20In%20The%20Sheath">Github</a>.<br><br>
+Play the game here on my <a href="https://shanegamedev.itch.io/one-in-the-sheath">Itch.io Page</a>.<br>
+If you'd like to read more in-depth, here is my <a href="https://docs.google.com/document/d/1z-u6jxpOQ0967URzYsQztUvDtA67lIu9O2IFe62chjU/edit?usp=sharing"> Gameplay Document</a>.<br>
+Check out the entire codebase on <a href="https://github.com/ShaneMakesGames/Code-Samples/tree/main/One%20In%20The%20Sheath">Github</a>.<br>

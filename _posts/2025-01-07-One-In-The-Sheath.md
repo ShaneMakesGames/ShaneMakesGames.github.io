@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Brawloween"
+title:  "One In The Sheath"
 role: "Technical Game Designer"
 team-size: "Team Size : 3 People"
-timeline: "July 2023 - Present"
-summary: "A 2D sprite-based fighting game set in a halloween inspired world featuring new takes on classic monsters."
-date:   2018-09-04 15:39:40
+timeline: "January 2025 - February 2025"
+summary: "A score-attack action game. Both you and your enemies will die from a single attack. Using your dash-attack spends a resource that can be regained by killing enemies or parrying projectiles."
+date:   2017-09-04 15:39:40
 preview: /assets/BrawloweenPreview.png
 ---
 <p align="center">____________________________________________________________________________________</p>
@@ -15,24 +15,20 @@ preview: /assets/BrawloweenPreview.png
 </video>
 <br>
 <b>Responsibilities :</b><br>
-  - Developed custom editor tools for creating new normal attacks and special moves<br>
-  - Documented Instructions for using development tools<br>
-  - Programmed core gameplay systems and input buffering system<br>
-  - Designed movesets for characters including movement abilties, special moves, and normal attacks
+- Setup a token system for enemy attacks to ensure only a set number of enemies can attack at once
+- Tweaked visual elements such as animation timing & hitstop to achieve satisfying combat without compromising responsiveness
+- Wrote a gameplay document outlining the core pillars, player actions, and objectives
+- Implemented UI motion for bars, hover states, and skill notifications
 
 ____________________________________________________________________________________
 <br><br>
 
-<b> Custom Editor Tools</b><br>
+<b>Keep Moving Forward</b><br>
 <img src="/assets/BrawloweenGifs/NormalAttackCustomEditor.gif"><br>
-One of my responsibilities on the project is to create tools to facilitate our content development. Shown above, is our custom editor tool for creating and editing Normal Attacks and Special Moves. The primary goal of this tool is to be modular, breaking the data into smaller groups. If I just want to edit a Normal Attack's Hitstun then I can just open the "Opponent Frame Data" group and leave all the other groups closed. Additionally, there is a toggle that opens all groups if you want to quickly take a look at the overall move. The editor also hides certain parameters based on context. For example, if a Special Move is not a Launcher, then the Launcher Force and Fall Speed parameters will be hidden because they will not be needed.<br><br>
+The first pillar of the game’s design is as follows: “the player should always be encouraged to keep moving forward”. One way I incentivized this is by skewing the risk/reward in the favor of being aggressive. Enemy projectiles can be parried by a well timed attack so rather than dodging their attacks, it makes more sense to dash through them instead. Dashing spends a dash charge and only by getting a kill or parry can you regain your dash charge. I figured that if we put the dash on a cooldown after being used, some players might run away and wait out the cooldown timer rather than playing risky. Additionally, successful offensive actions can be canceled into other offensive actions (Ex. After attacking an enemy you can cancel the recovery animation by immediately dashing). It is also very beneficial to maintain a combo because having a higher multiplier means each kill or parry will earn you more score. The combo timer does get shorter the higher your combo gets but the further into the game you get, more enemies will spawn and they move faster. In this way even though it becomes more difficult to survive later on, it actually gets easier to build up a large multiplier. If you aren’t entering a flow state when playing One In The Sheath, then I have failed.<br><br>
 
-If you'd like to read more in-depth, here is my <a href="https://docs.google.com/document/d/13dCv29WsFoRbIdVQaPxMXBdBqzNINogZ-KMvsr4hsMQ/edit?usp=sharing"> Move Editor Documentation</a>.<br><br>
+Very early into development I realized that this game would live or die by it’s game feel. I knew that I wanted to utilize hitstop to make every attack feel powerful but I quickly realized that this could interfere with our “keep moving forward” design pillars. If hitstop slows the game down too much it will do the opposite of my intent and actually take you out of that flow state. This issue would become especially obvious when reaching later waves with more enemies spawning. We could simply shorten the length of hitstop around the board, but this would make single hits feel less impactful. To account for both cases, I added hitstop scaling so when hitstop occurs immediately after one another, the next instance will be shorter. There is a minimum amount of hitstop that it cannot go below because if it is too short then it defeats the purpose. But hitstop scaling allows single hits to feel impactful while still retaining the feeling of slicing through each individual enemy.<br><br>
 
-<a href="https://docs.google.com/presentation/d/1USMjjvOdRkfbaPvTS6eGCgtBI-I_NxuO56K2gFUEH2Q/edit?usp=sharing"> <img src="/assets/BrawloweenPitchDeck.png"></a><br>
-I am also working on designing character movesets for the game. To learn about Clive, the Lycanthrope Boxer check out my <a href="https://docs.google.com/presentation/d/1USMjjvOdRkfbaPvTS6eGCgtBI-I_NxuO56K2gFUEH2Q/edit?usp=sharing"> Pitch Deck</a>. This presentation details both of the character's two styles including their movement abilities and special moves.<br><br>
-
-The unique aspect of Brawloween is that <b>each playable character will have two different Styles</b>, both with <b>different normal attacks, special moves, and movement abilities</b>. A character’s two styles should lead to <b>synergy while still feeling distinct from one another</b>. For Clive, our first playable character, I wanted to differentiate the two styles with their movement options and gameplan.<br><br>
-
-His Boxer style has <b>phenomenal grounded movement</b> whereas his Werewolf style relies on <b>strong aerial movement</b>. The Boxer style has <b>great combo tools</b> but a fairly <b>straight forward gameplan</b> involving <b>strike/throw pressure</b>. The Werewolf style on the other hand has <b>shorter combos</b> but <b>incredible tools for mix-ups</b> such as side-switches, an overhead, an airdash, and a fastfall. 
-</p>
+Play the game here on my <a href="https://shanegamedev.itch.io/one-in-the-sheath">Itch.io Page</a>.<br><br>
+If you'd like to read more in-depth, here is my <a href="https://docs.google.com/document/d/1z-u6jxpOQ0967URzYsQztUvDtA67lIu9O2IFe62chjU/edit?usp=sharing"> Gameplay Document</a>.<br><br>
+Check out the entire codebase on <a href="https://github.com/ShaneMakesGames/Code-Samples/tree/main/One%20In%20The%20Sheath">Github</a>.<br><br>

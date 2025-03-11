@@ -19,8 +19,7 @@ preview: /assets/1SheathPreview.png
 - Tweaked visual elements such as animation timing & hitstop to achieve satisfying combat without compromising responsiveness<br>
 - Wrote a gameplay document outlining the core pillars, player actions, and objectives<br>
 - Implemented UI motion for bars, hover states, and skill notifications
-
-____________________________________________________________________________________
+<p align="center">____________________________________________________________________________________</p>
 <br><br>
 <p align="center">  
 <b>Keep Moving Forward</b><br>

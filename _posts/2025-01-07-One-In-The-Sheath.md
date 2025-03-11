@@ -13,14 +13,13 @@ preview: /assets/1SheathPreview.png
   <source src="/assets/1SheathVideos/1SheathGameplay.mp4" type="video/mp4">
 </video>
 </p>
-<br>
 <b>Responsibilities :</b><br>
 - Setup a token system for enemy attacks to ensure only a set number of enemies can attack at once<br>
 - Tweaked visual elements such as animation timing & hitstop to achieve satisfying combat without compromising responsiveness<br>
 - Wrote a gameplay document outlining the core pillars, player actions, and objectives<br>
 - Implemented UI motion for bars, hover states, and skill notifications
 <p align="center">____________________________________________________________________________________</p>
-<br><br>
+<br>
 <p align="center">  
 <b>Keep Moving Forward</b><br>
 </p>

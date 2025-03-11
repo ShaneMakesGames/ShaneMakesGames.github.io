@@ -21,7 +21,7 @@ preview: /assets/1SheathPreview.png
 - Implemented UI motion for bars, hover states, and skill notifications
 
 ____________________________________________________________________________________
-<br><br>
+<br>
 
 <b>Keep Moving Forward</b><br>
 The first pillar of the game’s design is as follows: “the player should always be encouraged to keep moving forward”. One way I incentivized this is by skewing the risk/reward in the favor of being aggressive. Enemy projectiles can be parried by a well timed attack so rather than dodging their attacks, it makes more sense to dash through them instead. Dashing spends a dash charge and only by getting a kill or parry can you regain your dash charge. I figured that if we put the dash on a cooldown after being used, some players might run away and wait out the cooldown timer rather than playing risky. Additionally, successful offensive actions can be canceled into other offensive actions (Ex. After attacking an enemy you can cancel the recovery animation by immediately dashing). It is also very beneficial to maintain a combo because having a higher multiplier means each kill or parry will earn you more score. The combo timer does get shorter the higher your combo gets but the further into the game you get, more enemies will spawn and they move faster. In this way even though it becomes more difficult to survive later on, it actually gets easier to build up a large multiplier. If you aren’t entering a flow state when playing One In The Sheath, then I have failed.<br><br>

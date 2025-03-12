@@ -30,6 +30,7 @@ The first pillar of the game’s design is as follows: “the player should alwa
 If you aren’t entering a flow state when playing One In The Sheath, then I have failed.
 <br><br>
 
+<b>Game Feel</b><br></p>
 Very early into development I realized that this game would live or die by its game feel. I knew that I wanted to utilize hitstop to make every attack feel powerful but I quickly realized that this could interfere with our “keep moving forward” design pillars. If hitstop slows the game down too much it will do the opposite of my intent and actually take you out of that flow state. This issue would become especially obvious when reaching later waves with more enemies spawning. We could simply shorten the length of hitstop around the board, but this would make single hits feel less impactful. To account for both cases, I added hitstop scaling so when hitstop occurs immediately after one another, the next instance will be shorter. There is a minimum amount of hitstop that it cannot go below because if it is too short then it defeats the purpose. Hitstop scaling allows single hits to feel impactful while still retaining the feeling of slicing through each individual enemy.<br><br>
 <p align="center">  
 <video width="640" height="360" autoplay muted loop>

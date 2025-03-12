@@ -17,9 +17,8 @@ ________________________________________________________________________________
 - Implemented layouts and functionality for 3 UI screens<br>
 - Built a system to display accurate controller icons in tutorials and helped with asset loading and storage, and localization systems<br>
 - Documented new asset loading pipeline for content team<br>
-- Coordinated with internal and localization QA team to fix bugs<br><br>
+- Coordinated with internal and localization QA team to fix bugs<br>
 <p align="center">____________________________________________________________________________________</p>
-<br>
 <p align="center">
 <b>Monster Powers</b>
 <img src="/assets/FlowstoneSagaGifs/LightningStrike.gif">
@@ -28,7 +27,6 @@ Monster powers are special attacks that enemies use during a battle, usually wit
 
 Setting up monster powers is one of my main responsibilities on the project and the process for creating one can be broken up into three main steps.<br><br>
 <p align="center">____________________________________________________________________________________</p>
-<br>
 <p align="center">
 <b>1. Planning</b>
 <img src="/assets/Lock&Key(Mock-Up).png">
@@ -36,7 +34,6 @@ Setting up monster powers is one of my main responsibilities on the project and 
 It all starts with our designer making a ticket in our task management system. This includes a sketch as well as a description of the ability. I'll ask any preliminary questions I may have and start thinking about how to go about implementing the ability. The image above is the mock-up for the Lock and Key power which blocks off a section of the board with lock tiles and then tosses a key tile on one side. Once the key tile is cleared, all of the lock tiles will go away.<br><br>
 
 <p align="center">____________________________________________________________________________________</p>
-<br>
 <p align="center">
 <b>2. Prototyping</b>
 <img src="/assets/FlowstoneSagaGifs/LockAndKeyHorizontal.gif">
@@ -44,14 +41,12 @@ It all starts with our designer making a ticket in our task management system. T
 The goal in this stage is to quickly get the monster power working so our artists can see it in motion and start making assets for it. Often times while prototyping I will come up with more questions, so I talk with our designer again and we decide how the ability should function. For example, when the Lock and Key power blocks off the board horizontally it is common to have left over tiles after clearing the key tile. I spoke with our designer and we decided that these tiles should fall down and fill in gaps after the ability has ended because that is not where we wanted the difficulty to come from with the power.<br><br>
 
 <p align="center">____________________________________________________________________________________</p>
-<br>
 <p align="center">
 <b>3. Polish</b>
 <img src="/assets/FlowstoneSagaGifs/LockAndKeyPower(Final).gif">
 </p>
 At this point the functionality of the monster power is there so I am mostly cleaning up my code and replacing placeholder assets with final art. This is also when I add VFX, SFX, and other polish elements like screenshake depending on the ability. Above you can see the final look of the Lock and Key monster power.  
 <p align="center">____________________________________________________________________________________</p>
-<br>
 <p align="center">
 <b>Documentation</b><br>
 </p>
@@ -59,7 +54,6 @@ Early into my time working on Flowstone Saga, we switched to loading assets usin
 
 Feel free to check out the document here : <a href="https://docs.google.com/document/d/1CgCN2DBm3LqS_b8gA4DRWRaaVjDBc943ztECmDGMwWY/edit?usp=sharing"> Addressables Documentation</a>.<br>
 <p align="center">____________________________________________________________________________________</p>
-<br>
 <p align="center">
 <b>UI</b><br>
 <img src="/assets/FlowstoneSagaGifs/EquipmentUI.gif">

@@ -13,7 +13,6 @@ preview: /assets/BrawloweenPreview.png
   <source src="/assets/BrawloweenVideos/BrawloweenGameplay.mp4" type="video/mp4">
 </video>
 </p>
-<br>
 <b>Responsibilities :</b><br>
   - Developed custom editor tools for creating new normal attacks and special moves<br>
   - Documented Instructions for using development tools<br>

@@ -8,6 +8,7 @@ summary: "A score-attack action game. Both you and your enemies will die from a 
 date:   2017-09-04 15:39:40
 preview: /assets/1SheathPreview.png
 ---
+<p align="center"><a href="https://shanegamedev.itch.io/one-in-the-sheath"><img src="/assets/itch_logo_64x.png"></a>
 <p align="center">____________________________________________________________________________________
 <video width="640" height="360" autoplay muted loop>
   <source src="/assets/1SheathVideos/1SheathGameplay.mp4" type="video/mp4">
@@ -19,7 +20,6 @@ preview: /assets/1SheathPreview.png
 - Wrote a gameplay document outlining the core pillars, player actions, and objectives<br>
 - Implemented UI motion for bars, hover states, and skill notifications
 <p align="center">____________________________________________________________________________________</p>
-<br>
 <p align="center">  
 <b>Keep Moving Forward</b><br>
 </p>

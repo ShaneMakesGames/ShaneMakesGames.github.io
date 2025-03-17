@@ -37,5 +37,5 @@ Very early into development I realized that this game would live or die by its g
 <br>
 </p>
 If you'd like to <b>read more</b> in-depth, here is my <a href="https://docs.google.com/document/d/1z-u6jxpOQ0967URzYsQztUvDtA67lIu9O2IFe62chjU/edit?usp=sharing"> Weapon Design Document</a>.<br>
-Want to <b>see my code samples</b> from the project, they are here : <a href="https://github.com/ShaneMakesGames/Code-Samples/tree/main/One%20In%20The%20Sheath"> Recursion Error Code Samples</a>.<br>
+Want to <b>see my code samples</b> from the project, they are here : <a href="https://github.com/ShaneMakesGames/Code-Samples/tree/main/One%20In%20The%20Sheath"> One In The Sheath Code Samples</a>.<br>
 Or if you'd like to <b>play the game</b> yourself, here is the <a href="https://shanegamedev.itch.io/one-in-the-sheath"> Itch.io Page</a>.

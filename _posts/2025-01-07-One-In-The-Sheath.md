@@ -36,6 +36,11 @@ Very early into development I realized that this game would live or die by its g
 </video>
 <br>
 </p>
+<p align="center">____________________________________________________________________________________
+<b>Token System</b><br></p>
+While working on the project, I was inspired by a GDC talk I had seen by Mihir Sheth called Evolving Combat in 'God of War' for a New Perspective. More specifically the section of the talk that discusses enemy aggressiveness and tokens. In their system, all active enemies are evaluated and given an aggression score based on a few variables such as distance from the player and angle from the camera. Due to the small scope of the project, our system for handling enemy attacks was far simpler. In One In The Sheath, enemies can only attack if they are currently in possession of an attack token. When there are less than the max number of tokens claimed, the system looks for other available enemies to give tokens to. Since enemies only use ranged attacks, we did not need to worry about proximity to the player when handing out tokens. All enemies that are currently visible in camera view are added to a list and picked at random to be given an attack token. After an enemy attacks, they return their token to the pool and are placed on a short cooldown before they can attack again. 
+<p align="center"><img src="/assets/1SheathAttackTokenCode.png"></p>
+
 If you'd like to <b>read more</b> in-depth, here is my <a href="https://docs.google.com/document/d/1z-u6jxpOQ0967URzYsQztUvDtA67lIu9O2IFe62chjU/edit?usp=sharing"> Weapon Design Document</a>.<br>
 Want to <b>see my code samples</b> from the project, they are here : <a href="https://github.com/ShaneMakesGames/Code-Samples/tree/main/One%20In%20The%20Sheath"> One In The Sheath Code Samples</a>.<br>
 Or if you'd like to <b>play the game</b> yourself, here is the <a href="https://shanegamedev.itch.io/one-in-the-sheath"> Itch.io Page</a>.

@@ -3,7 +3,7 @@ layout: post
 title:  "Flowstone Saga"
 role: "Programmer"
 team-size: "Team Size : 20 People"
-timeline: "September 2021 - Present"
+timeline: "September 2021 - February 2025"
 summary: "Flowstone Saga is a 16-bit RPG adventure with a unique puzzle-battle system."
 date:   2024-09-26 15:39:40
 preview: /assets/FlowstoneSagaPreview.png

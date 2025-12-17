@@ -3,7 +3,7 @@ layout: post
 title:  "Brawloween"
 role: "Technical Game Designer"
 team-size: "Team Size : 3 People"
-timeline: "July 2023 - Present"
+timeline: "July 2023 - December 2024"
 summary: "A 2D sprite-based fighting game set in a halloween inspired world featuring new takes on classic monsters."
 date:   2018-09-04 15:39:40
 preview: /assets/BrawloweenPreview.png

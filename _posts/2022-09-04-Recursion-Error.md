@@ -13,7 +13,6 @@ preview: /assets/RecursionErrorPreview.png
 ____________________________________________________________________________________
 <p align="center">  
 <iframe width="720" height="405" src="https://www.youtube.com/embed/OASWarE0Y6E?si=P6CaEUvze_lqXZVH" title="Demo Reel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</p>
 <b>Responsibilities :</b><br>
   - Designed movesets for 3 weapons that encourage different playstyles<br>
   - Wrote documentation on weapon designs<br>

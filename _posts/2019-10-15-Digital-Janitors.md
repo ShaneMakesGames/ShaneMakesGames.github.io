@@ -13,7 +13,6 @@ preview: /assets/DigitalJanitorsPreview.png
 ____________________________________________________________________________________
 <p align="center">  
 <iframe width="720" height="405" src="https://www.youtube.com/embed/ZgYnhckP1VA?si=1PksMrIxK-32tGp2" title="Demo Reel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</p>
 Responsibilities : <br>
   - Designed and programmed 28 folder types<br>
   - Designed and programmed 15 power-up abilities<br>

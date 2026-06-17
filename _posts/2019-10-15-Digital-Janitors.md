@@ -11,7 +11,8 @@ preview: /assets/DigitalJanitorsPreview.png
 <p align="center">
 <a href="https://store.steampowered.com/app/1389850/Digital_Janitors/"><img src="/assets/steam_logo_64x.png"></a>
 ____________________________________________________________________________________
-<iframe width="720" height="405" src="https://www.youtube.com/embed/ZgYnhckP1VA?si=1PksMrIxK-32tGp2" title="Digital Janitors Launch Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<p align="center">  
+<iframe width="720" height="405" src="https://www.youtube.com/embed/ZgYnhckP1VA?si=1PksMrIxK-32tGp2" title="Demo Reel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
 Responsibilities : <br>
   - Designed and programmed 28 folder types<br>

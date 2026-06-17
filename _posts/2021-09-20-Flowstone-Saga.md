@@ -10,7 +10,8 @@ preview: /assets/FlowstoneSagaPreview.png
 ---
 <p align="center"><a href="https://store.steampowered.com/app/1372000/Flowstone_Saga/"><img src="/assets/steam_logo_64x.png"></a><img src="/assets/switch_logo_64x.png">
 ____________________________________________________________________________________
-<iframe width="720" height="405" src="https://www.youtube.com/embed/P1ZIUS2DzEc?si=wl0cwHWQmF7icNgN" title="Flowstone Saga Launch Trailer" frameborder="0" allow="autoplay; picture-in-picture; web-share" allowfullscreen></iframe>
+<p align="center">  
+<iframe width="720" height="405" src="https://www.youtube.com/embed/P1ZIUS2DzEc?si=gp4nA9Uln57UxG3o" title="Demo Reel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
 <b>Responsibilities :</b><br>
 - Worked with different disciplines on gameplay features such as 106 enemy abilities, 28 character item passives, and 7 class types<br>

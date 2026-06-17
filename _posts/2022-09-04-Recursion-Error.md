@@ -11,7 +11,7 @@ preview: /assets/RecursionErrorPreview.png
 ---
 <p align="center"><a href="https://shanegamedev.itch.io/recursion-error"><img src="/assets/itch_logo_64x.png"></a>
 ____________________________________________________________________________________
-<iframe width="720" height="405" src="https://www.youtube.com/embed/OASWarE0Y6E" title="Recursion Error Trailer | Cyber Duck Collective" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="720" height="405" src="https://www.youtube.com/embed/OASWarE0Y6E?si=P6CaEUvze_lqXZVH" title="Recursion Error Trailer | Cyber Duck Collective" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </p>
 <b>Responsibilities :</b><br>
   - Designed movesets for 3 weapons that encourage different playstyles<br>

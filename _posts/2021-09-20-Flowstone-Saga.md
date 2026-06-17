@@ -12,7 +12,6 @@ preview: /assets/FlowstoneSagaPreview.png
 ____________________________________________________________________________________
 <p align="center">  
 <iframe width="720" height="405" src="https://www.youtube.com/embed/P1ZIUS2DzEc?si=gp4nA9Uln57UxG3o" title="Demo Reel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</p>
 <b>Responsibilities :</b><br>
 - Worked with different disciplines on gameplay features such as 106 enemy abilities, 28 character item passives, and 7 class types<br>
 - Implemented layouts and functionality for 3 UI screens<br>
